@@ -1,6 +1,10 @@
 # Proyectos-Base-de-datos
 Opciones de Proyectos para la materia de Base de datos
 
+Los proyectos los estoy definiendo, dentro de lo posible, en el lenguaje de los interesados. Evitando la fraseología típica de los problemas de Base de datos de libro. Aunque este repositorio nace en mi materia de Taller de Base de datos, la idea es que los proyectos puedan ser usado como proyectos integradores a lo largo de la carrera de Ingeniería en Sistemas Computacionales y afines.
+
+
+
 ## Agroquimicos 
 Es una empresa que vende agroquímicos. El objetivo es llevar el inventario de productos y a través de los diferentes tipos de movimientos (ventas/compras/TI)
 
