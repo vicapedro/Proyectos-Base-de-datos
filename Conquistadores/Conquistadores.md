@@ -1,11 +1,11 @@
 ## Club de Conquistadores 
 Los "Conquistadores" es una organización global que adiestra a niños entre 10 y 16 años en el arte del escultismo. Los niños se inscriben a un Club en su ciudad. En una ciudad puede haber varios clubes de Conquistadores. Cada club tiene una directiva donde cada miembro de esta es voluntario y tiene un rol pudiendo ser director, subdirector, un secretario o tesorero. Cada club tiene su nombre, lema y logo.
 
-Los niños se incriben al Club de su preferencia por cercanía o afinidad (por ejemplo en donde están sus amigos) en una clase según su edad (no es inflexible).
+Los padres incriben a sus niños al Club de su preferencia por cercanía o afinidad (por ejemplo en donde están sus amigos) en una clase según su edad (no es inflexible). El niño ahora es miembro del club.
 
 Una clase es un curso, estándar para todos los clubes, donde el niño aprende diferentes cosas y debe realizar algunas actividades (llamados Requisitos) obligatorias. Existen 7 clases reconocidas a nivel global; cada clase tiene un nombre, color y logotipo. Cada niño pertenece a una clase de la cual espera investirse. La investidura es la ceremonia donde se entrega el reconocimiento a los niños que cumplieron todos los requisitos de una clase. Las clases, aunque son progresivas, no son requisito para tomar la siguiente.
 
-Se necesita conocer los datos de los niños para cualquier situación que pueda presentarse, entre otros: nombre, fecha de nacimiento, sexo, padres y a quien llamar en caso de emergencia; también si padece de alguna enfermedad (alergia, cardiopatía) pues las salidas al campo y el ejercicio son frecuentes. 
+Se necesita conocer los datos de los niños para cualquier situación que pueda presentarse, entre otros: nombre, fecha de nacimiento, sexo, padres y a quien llamar en caso de emergencia; también si padece de alguna enfermedad (alergia, cardiopatía, etc.) pues las salidas al campo y el ejercicio son frecuentes. 
 
 Es común que un niño al crecer y pasar tiempo en los clubes colabore después en los clubes como instructor o en la directiva. También que al formar una familia lleve a sus hijos a formar parte de los clubes.
 
@@ -13,7 +13,8 @@ Cada club tiene instructores para cada clase, de quien se desea conocer también
 
 Se desea saber la fecha de inicio y término de actividades de cada club. Este periodo de trabajo puede variar en cada club, aunque en México, normalmente inicia en octubre y termina en junio del año siguiente. _Por diversas circunstancias pueden empezar tan tarde como enero o febrero. De la misma forma, aunque se espera que un club tenga al menos 20 reuniones en un año de trabajo, una a la semana, algunos clubes avanzan mas rápido que otros, pudiendo terminar tan temprano como mayo o tan tarde como octubre._
 
-Una reunión de Club puede durar entre 2 y 4 horas por lo que se realizan varias actividades durante ella. _Por lo pronto no es necesario para el proyecto, pero por razone de contexto 
+Una reunión de Club puede durar entre 2 y 4 horas por lo que se realizan varias actividades durante ella. _Por lo pronto no es necesario para el proyecto, pero se especifica por razones de contexto_.
+ 
 Al realizar algunas actividades, los "Conquistadores" se reúnen con su unidad. Cada unidad tiene un nombre, logotipo, un lema y, elegido de entre los miembros, un capitán. Los niños de una unidad son del mismo sexo. Cada unidad tiene un consejero que puede ser un aspirante a Guía Mayor o un Guía Mayor investido y, como dormirá con su unidad en los campamentos, también debe ser del mismo sexo que ésta. 
 
 El "Conquistador" puede realizar diferentes especialidades, donde cada especialidad tiene una serie de requisitos con las cuales debe cumplir. De cada especialidad tenemos su nombre, el año en que se aceptó en el manual, el área a la que pertenece y un número secuencial dentro del área a la que pertenece, con lo cual se forma su código. 
