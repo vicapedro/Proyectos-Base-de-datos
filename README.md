@@ -8,7 +8,7 @@ Los proyectos los estoy definiendo, dentro de lo posible, en el lenguaje de los 
 ## Agroquimicos 
 Es una empresa que vende agroquímicos. El objetivo es llevar el inventario de productos y a través de los diferentes tipos de movimientos (ventas/compras/TI)
 
-## Colita de Rana 
+## Salud y Vida 
 Empresa dedicada al cuidado de la salud. Desea tener un Expediente Medico electrónico y llevar el control de las citas de sus pacientes con sus diferentes especialistas. Posee farmacia, laboratorio de análisis y diferentes servicios que ayudan en el diagnóstico y tratamiento.
 
 ## Comedor
