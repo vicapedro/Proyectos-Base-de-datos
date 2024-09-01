@@ -18,9 +18,16 @@ La receta se surte en la farmacia de Salud y Vida. El dependiente verifica la re
 
 Es necesario llevar un control del inventario de medicamentos. 
 
-*Pendiente: presentación de medicamentos, dosis. Para que el sistema le indique al dependiente con la dosis, frecuencia y duración del tratamiento, cuantas cajas darle al paciente.*
+*Pendiente de redacción: presentación de medicamentos, dosis. Para que el sistema le indique al dependiente con la dosis, frecuencia y duración del tratamiento, cuantas cajas darle al paciente.*
 
-Todos los servicios de Salud y Vida se proporcionan independientemente si la orden es de un médico interno o externo. Se debe pagar antes de recibir el servicio.
+Todos los servicios de Salud y Vida se proporcionan independientemente si la orden es de un médico interno o externo. Se debe pagar antes de recibir el servicio. Los servicios de análisis clínicos e imagenología pueden ser consultados por los médicos o los clientes a través del sistema. A los clientes se les entrega y envía por email un comprobante con un número de servicio y una contraseña. Por email también se incluye una URL para facilidad de acceso *(Nota: esta URL no se guarda en la base de datos. Esto es para otra materia)*.
+
+Un paciente registrado mayor de edad puede consultar toda su información a través de la web app. Un cliente puede hacerlo de sus dependientes menores de edad. 
+
+Un cliente puede agregar a sus dependientes y todos los cargos derivados de atenderlos serán a su cuenta, aunque el paciente puede pagar también. *(Mejorar redacción)*
+
+*Pendiente: Hospitalización y cirujías**
+
 
 ## Análisis clínicos
 
@@ -147,7 +154,10 @@ Cuidado de la salud visual y tratamiento de enfermedades oculares.
 **Urología:**
 Tratamiento de enfermedades del sistema urinario y, en hombres, del sistema reproductor.
 
+## Reportes
 
+- Los médicos deben poder ver las citas que tienen programadas por día y por semana
+- 
 
 
 
