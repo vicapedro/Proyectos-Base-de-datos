@@ -4,7 +4,6 @@ Opciones de Proyectos para la materia de Base de datos
 Los proyectos los estoy definiendo, dentro de lo posible, en el lenguaje de los interesados. Evitando la fraseología típica de los problemas de Base de datos de libro. Aunque este repositorio nace en mi materia de Taller de Base de datos, la idea es que los proyectos puedan ser usado como proyectos integradores a lo largo de la carrera de Ingeniería en Sistemas Computacionales y afines.
 
 
-
 ## Agroquimicos 
 Es una empresa que vende agroquímicos. El objetivo es llevar el inventario de productos y a través de los diferentes tipos de movimientos (ventas/compras/TI)
 
@@ -22,8 +21,9 @@ Es una red social para que las personas compartan su opinión sobre los lugares 
 
 ## Inmobiliaria
 Empresa dedicada a la venta y renta de casas bienes inmuebles
+Incompleto, no usar
 
 ## TrumpetWare
-Empresa de venta por catálogo. Sus embajadores tienen una cartera de clientes que seleccionan los productos de un catálogo impreso. Algunos artículos se venden durante muchos meses, otros solo por temporadas (navidad, dia de las madres, etc.)
+Empresa de venta por catálogo. Sus embajadores tienen una cartera de clientes que seleccionan los productos de un catálogo impreso o del sitio web. Algunos artículos se venden durante muchos meses, otros solo por temporadas (navidad, dia de las madres, etc.)
 
 
