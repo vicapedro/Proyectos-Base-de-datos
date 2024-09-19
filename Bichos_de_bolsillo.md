@@ -13,7 +13,7 @@ Cada bicho puede aprender un ataque rápido y un ataque cargado.
 Cada especie es mas o menos resistente a cierto tipo de ataques: Los tipo Planta resisten los ataques tipo agua, pero no los tipo fuego. 
 Ejemplo:
 
-| Debilidades | Factor |
+| **Debilidades** | **Factor** |
 |-------------|--------|
 | Hada | 120% |
 | Volador| 120% |

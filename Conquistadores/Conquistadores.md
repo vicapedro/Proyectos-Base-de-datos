@@ -1,5 +1,5 @@
 ## Club de Conquistadores 
-Los "Conquistadores" es una organización global que adiestra a niños entre 10 y 16 años en el arte del escultismo. Los niños se inscriben a un Club en su ciudad. En una ciudad puede haber varios clubes de Conquistadores. Cada club tiene una directiva donde cada miembro de esta es voluntario y tiene un rol pudiendo ser director, subdirector, un secretario o tesorero. Cada club tiene su nombre, lema y logo.
+El "Club de Conquistadores" es una organización global que adiestra a niños entre 10 y 16 años en el arte del escultismo. Los niños se inscriben a un Club en su ciudad. En una ciudad puede haber varios clubes de Conquistadores. Cada club tiene una directiva donde cada miembro de esta es voluntario y tiene un rol pudiendo ser director, subdirector, un secretario o tesorero. Cada club tiene su nombre, lema y logo.
 
 Los padres incriben a sus niños al Club de su preferencia por cercanía o afinidad (por ejemplo en donde están sus amigos) en una clase según su edad (no es inflexible). El niño ahora es miembro del club.
 
