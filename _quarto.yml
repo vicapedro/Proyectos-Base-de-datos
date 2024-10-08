@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Proyectos de Bases de Datos"
+  author: "Pedro Villa Casas"
+  date: "7/10/2015"
+  body-header: "./mods/header.md"
+  body-footer: "lo que to insert below each page’s body."
+  margin-header: "./mods/header.md"
+  margin-footer: "Text to place below margin content (text or file path)"
+  chapters:
+    - index.qmd
+    - README.md
+    - ./Conquistadores/Conquistadores.md
+    - Comedor_colegio.md
+    - Bichos_de_bolsillo.md
+    - Agroquimicos.md
+    - ./Pawfect_Care/Pawfect_Care.md
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
