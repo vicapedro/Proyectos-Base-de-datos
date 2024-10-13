@@ -17,10 +17,10 @@ Cada especie es mas o menos resistente a ataques de cierto tipo de pokémon: Los
 
 Ejemplo:
 
-**Anihilape**
 
+| **Anihilape** | |
+|------|----:|
 | **Debilidades** | **Factor** |
-|-------------|--------|
 | Hada | 160% |
 | Volador| 160% |
 | Fantasma| 160% |
