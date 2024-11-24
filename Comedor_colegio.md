@@ -1,4 +1,4 @@
-## Comedor del Colegio Pink Floyd
+# Comedor del Colegio Pink Floyd
 
 El “Colegio Pink Flor” con kínder y primaria busca mejorar sus servicios y lo han contratado a usted para desarrollar el sistema computacional que controle el servicio de comedor que ofrece a sus alumnos de lunes a viernes. 
 
@@ -14,9 +14,9 @@ Los lunes y miércoles se hacen las compras de los ingredientes, es importante g
  
 El niño come sólo lo que el padre apruebe del menú. Los niños pueden ser alérgicos a ciertos ingredientes, por lo cual es importante conocer sus alergias alimentarias. 
 
-# Ejemplos
+## Ejemplos
 
-## Ejemplo 1 
+### Ejemplo 1 
 Actualmente es la semana 20 y los padres pueden seleccionar de este menú:
 
 | Comida	| Bebida	| Postre |
@@ -29,7 +29,7 @@ Actualmente es la semana 20 y los padres pueden seleccionar de este menú:
 |Enchiladas verdes	|Agua de pepino	|Mangoneadas|
 |Pollo a la plancha	|Agua de horchata	|Pastel de chocolate|
 
-## Ejemplo 2
+### Ejemplo 2
 El señor Ramírez tiene 2 hijos, no se quiere complicar y ordena lo mismo para sus hijos; paga el total:
 
 Órdenes de Juan para la semana 21
@@ -41,14 +41,15 @@ El señor Ramírez tiene 2 hijos, no se quiere complicar y ordena lo mismo para 
 |Jueves	|Tamales de verdura	|Agua de piña	|Frutos rojos|
 |Viernes	|Ceviche de soya|	Agua de melón|	Flan|
 
-## Ejemplo 3 
+### Ejemplo 3 
 
 El nutriólogo registra una nueva comida: 
 
-| Crêpes salados|
-|------------------------------------|
-| **Ingredientes** (Para 5 porciones)|
-| 
+**Crêpes salados**
+
+
+ **Ingredientes** (Para 5 porciones)
+ 
 - Harina de garbanzo: 110 g
 - Agua: 250 ml
 - Aceite de oliva virgen extra: 15 ml
@@ -65,5 +66,5 @@ Disponer la harina de garbanzos en un cuenco o jarra con el agua…
 … Continuar hasta terminar con toda la masa, rellenar con los ingredientes preparados y servir.
 </td></tr>
 
-## Ejemplo 4
+### Ejemplo 4
 Ana Flérida está en la fila, es su turno, pone su credencial de la escuela en el sensor, en su pantalla y la de la barra aparece su orden para ese día. Marko le sirve, le entrega y oprime el botón de entregado.   
