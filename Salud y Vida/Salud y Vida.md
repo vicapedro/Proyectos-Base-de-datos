@@ -157,6 +157,8 @@ Tratamiento de enfermedades del sistema urinario y, en hombres, del sistema repr
 ## Reportes
 
 - Los médicos deben poder ver las citas que tienen programadas por día y por semana
+- Reporte de Inventario de medicamentos por categoría
+- Ingresos por especialidad por doctor
 - 
 
 
