@@ -13,6 +13,7 @@ book:
     - ./Conquistadores/Conquistadores.md
     - ./Pawfect_Care/Pawfect_Care.md
     - ./Salud y Vida/Salud y Vida.md
+    - TrumpetWare.md
 
 format:
   html:
