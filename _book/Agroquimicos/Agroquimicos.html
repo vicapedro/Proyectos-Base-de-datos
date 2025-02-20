@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Agroquímicos “Gallo Giro” – Proyectos de Bases de Datos</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../Bichos/Bichos_de_bolsillo.html" rel="next">
+<link href="../index.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../Agroquimicos/Agroquimicos.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Agroquímicos “Gallo Giro”</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Proyectos de Bases de Datos</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Preface</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Agroquimicos/Agroquimicos.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Agroquímicos “Gallo Giro”</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Bichos/Bichos_de_bolsillo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Pokémon Go</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Comedor/Comedor_colegio.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Comedor del Colegio Pink Floyd</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Conquistadores/Conquistadores.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Club de Conquistadores</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Inmobiliaria/Morshu_Estates.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">“Morshu Estates”</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Pawfect_Care/Pawfect_Care.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Pawfect Care</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../MasterBall/MasterBall_Tournaments.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">MasterBall Tournaments</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../Salud y Vida/Salud y Vida.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Salud y Vida</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../TrumpetWare/TrumpetWare.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">TrumpetWare</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">Introducción</a></li>
+  <li><a href="#productos" id="toc-productos" class="nav-link" data-scroll-target="#productos">Productos</a>
+  <ul class="collapse">
+  <li><a href="#presentaciones-de-productos" id="toc-presentaciones-de-productos" class="nav-link" data-scroll-target="#presentaciones-de-productos">Presentaciones de Productos</a></li>
+  <li><a href="#componentes-activos" id="toc-componentes-activos" class="nav-link" data-scroll-target="#componentes-activos">Componentes Activos</a></li>
+  <li><a href="#proveedores-y-precios" id="toc-proveedores-y-precios" class="nav-link" data-scroll-target="#proveedores-y-precios">Proveedores y Precios</a></li>
+  <li><a href="#punto-de-reorden" id="toc-punto-de-reorden" class="nav-link" data-scroll-target="#punto-de-reorden">Punto de Reorden</a></li>
+  </ul></li>
+  <li><a href="#sucursales-y-cedis" id="toc-sucursales-y-cedis" class="nav-link" data-scroll-target="#sucursales-y-cedis">Sucursales y CEDIS</a></li>
+  <li><a href="#traslado-de-inventario-ti" id="toc-traslado-de-inventario-ti" class="nav-link" data-scroll-target="#traslado-de-inventario-ti">Traslado de Inventario (TI)</a></li>
+  <li><a href="#procedimiento-de-venta-y-entrega" id="toc-procedimiento-de-venta-y-entrega" class="nav-link" data-scroll-target="#procedimiento-de-venta-y-entrega">Procedimiento de Venta y Entrega</a>
+  <ul class="collapse">
+  <li><a href="#procedimiento-de-envío-de-productos" id="toc-procedimiento-de-envío-de-productos" class="nav-link" data-scroll-target="#procedimiento-de-envío-de-productos">Procedimiento de Envío de Productos</a></li>
+  </ul></li>
+  <li><a href="#clientes" id="toc-clientes" class="nav-link" data-scroll-target="#clientes">Clientes</a>
+  <ul class="collapse">
+  <li><a href="#crédito-a-clientes" id="toc-crédito-a-clientes" class="nav-link" data-scroll-target="#crédito-a-clientes">Crédito a Clientes</a></li>
+  </ul></li>
+  <li><a href="#puestos-en-la-empresa" id="toc-puestos-en-la-empresa" class="nav-link" data-scroll-target="#puestos-en-la-empresa">Puestos en la Empresa</a></li>
+  <li><a href="#ejemplos" id="toc-ejemplos" class="nav-link" data-scroll-target="#ejemplos">Ejemplos</a></li>
+  <li><a href="#reportes" id="toc-reportes" class="nav-link" data-scroll-target="#reportes">Reportes</a>
+  <ul class="collapse">
+  <li><a href="#ventas" id="toc-ventas" class="nav-link" data-scroll-target="#ventas">Ventas</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Agroquímicos “Gallo Giro”</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
+<p>La empresa de agroquímicos “Gallo Giro” necesita controlar el movimiento de sus productos en toda la región noroeste del país. Para esto está organizada en diferentes zonas, que agrupan varios municipios. Es necesario llevar un registro de los TI, las ventas y las compras de productos, así como el control de los clientes y proveedores.</p>
+</section>
+<section id="productos" class="level2">
+<h2 class="anchored" data-anchor-id="productos">Productos</h2>
+<p>Los productos que maneja la empresa pertenecen a varias categorías, tales como:</p>
+<ul>
+<li><strong>Fertilizantes</strong></li>
+<li><strong>Semillas</strong></li>
+<li><strong>Herbicidas</strong></li>
+<li><strong>Fungicidas</strong></li>
+<li><strong>Insecticidas</strong></li>
+<li><strong>Otros agroquímicos</strong></li>
+</ul>
+<section id="presentaciones-de-productos" class="level3">
+<h3 class="anchored" data-anchor-id="presentaciones-de-productos">Presentaciones de Productos</h3>
+<p>Cada producto puede venir en diferentes tamaños o presentaciones, por ejemplo:</p>
+<ul>
+<li><strong>Faena 1lt</strong></li>
+<li><strong>Faena 1/2 lt</strong></li>
+<li><strong>Faena galón</strong></li>
+<li><strong>Otros tamaños específicos</strong></li>
+</ul>
+<p>Cada presentación es de hecho, el artículo que se vende como tal y tiene un Código Universal de Producto (UPC) único. Puedes encontrar más información sobre el UPC en <a href="https://es.wikipedia.org/wiki/C%C3%B3digo_Universal_de_Producto">Wikipedia</a>.</p>
+</section>
+<section id="componentes-activos" class="level3">
+<h3 class="anchored" data-anchor-id="componentes-activos">Componentes Activos</h3>
+<p>Diferentes productos comerciales pueden tener el mismo componente activo. Es importante llevar un registro de estos componentes para asegurar un manejo adecuado y evitar duplicidades.</p>
+</section>
+<section id="proveedores-y-precios" class="level3">
+<h3 class="anchored" data-anchor-id="proveedores-y-precios">Proveedores y Precios</h3>
+<p>Cada producto es provisto por un proveedor específico con un costo determinado. La empresa vende estos productos a un precio diferente al público. Es crucial mantener un registro actualizado de los costos y precios de venta para asegurar la rentabilidad.</p>
+</section>
+<section id="punto-de-reorden" class="level3">
+<h3 class="anchored" data-anchor-id="punto-de-reorden">Punto de Reorden</h3>
+<p>Los productos tienen un punto de reorden, que es la cantidad mínima de existencia antes de solicitar más producto. Este punto de reorden se establece para cada sucursal y CEDIS, asegurando que siempre haya suficiente inventario disponible para satisfacer la demanda.</p>
+</section>
+</section>
+<section id="sucursales-y-cedis" class="level2">
+<h2 class="anchored" data-anchor-id="sucursales-y-cedis">Sucursales y CEDIS</h2>
+<p>La empresa tiene varias sucursales en el estado, que mantienen una cierta cantidad de algunos productos en sus instalaciones. Otros productos son mantenidos en los Centros de distribución (CEDIS) por su volumen o peligrosidad. Un CEDIS mantiene una gran cantidad de productos que distribuye sólo a las sucursales que de él dependen. Puede haber varios CEDIS en una zona.</p>
+</section>
+<section id="traslado-de-inventario-ti" class="level2">
+<h2 class="anchored" data-anchor-id="traslado-de-inventario-ti">Traslado de Inventario (TI)</h2>
+<p>En ocasiones es necesario trasladar mercancía de un CEDIS a otro o de una sucursal a su CEDIS, esto se conoce como Traslado de Inventario (TI). Estos no pueden realizarse de sucursal a sucursal, ni a, o desde un CEDIS ajeno. Un CEDIS nunca vende, una sucursal nunca compra. De cada TI se necesita conocer el nombre del almacenista que solicita los productos y de quien autoriza, fecha y hora de salida y de entrada.</p>
+</section>
+<section id="procedimiento-de-venta-y-entrega" class="level2">
+<h2 class="anchored" data-anchor-id="procedimiento-de-venta-y-entrega">Procedimiento de Venta y Entrega</h2>
+<p>Cuando se realiza una venta se registra al vendedor, al almacenista que da salida al producto y si fue a domicilio al repartidor. Se genera el comprobante de venta que especifica una de 3 formas de entregar el producto al cliente:</p>
+<ul>
+<li><strong>En Sucursal.</strong> Si el producto y cantidad se tiene en sucursal. La venta se marca como entregada.</li>
+<li><strong>En el CEDIS.</strong> Si el producto o cantidad no se tiene en sucursal, o solo se maneja en CEDIS y el cliente quiere recogerlo en el CEDIS. En el comprobante de venta se imprime la dirección del CEDIS a donde debe acudir el cliente. Al entregarle al cliente la venta se marca como entregada.</li>
+<li><strong>A domicilio</strong>. El producto se entrega en el domicilio o campo donde se utilizará el producto. Se necesita registrar la dirección de entrega. Al regresar el repartidor de entregarle al cliente, la orden se marca como entregada.</li>
+</ul>
+<section id="procedimiento-de-envío-de-productos" class="level3">
+<h3 class="anchored" data-anchor-id="procedimiento-de-envío-de-productos">Procedimiento de Envío de Productos</h3>
+<p>Cuando un cliente compra algunos productos que quiere que los envíen a domicilio y algunos se tienen en la sucursal por no ser peligrosos, pero también compró productos que pueden ser tóxicos y por lo tanto se mantienen en el CEDIS, lo más conveniente es que todos los productos salgan del CEDIS. Esto se debe a: - <strong>Consolidación del Envío:</strong> Al enviar todos los productos desde el CEDIS, se puede consolidar el envío en una sola entrega, lo que reduce costos y simplifica la logística. - <strong>Seguridad:</strong> Los productos tóxicos ya están en el CEDIS, que está preparado para manejar y almacenar este tipo de productos de manera segura. - <strong>Eficiencia:</strong> Evita la necesidad de coordinar múltiples puntos de salida, lo que puede complicar la logística y aumentar el riesgo de errores.</p>
+</section>
+</section>
+<section id="clientes" class="level2">
+<h2 class="anchored" data-anchor-id="clientes">Clientes</h2>
+<p>Los clientes pueden ser:</p>
+<ul>
+<li><strong>Doméstico:</strong> personas que compran productos para su jardín o huerto familiar.</li>
+<li><strong>Agricultor:</strong> el que siembra grandes cantidades de tierra. A su vez, puede ser horticultor, fruticultor, productor de granos y semillas, etc.</li>
+</ul>
+<section id="crédito-a-clientes" class="level3">
+<h3 class="anchored" data-anchor-id="crédito-a-clientes">Crédito a Clientes</h3>
+<p>Los clientes pueden tener crédito en la empresa. Los días 10 del mes se hace corte, que se utiliza para calcular los intereses sobre las compras. El día 30 es el límite para pagar sin generar intereses. Todas las compras son a 6 meses. Si un pago se retrasa, genera un cargo del 10%.</p>
+</section>
+</section>
+<section id="puestos-en-la-empresa" class="level2">
+<h2 class="anchored" data-anchor-id="puestos-en-la-empresa">Puestos en la Empresa</h2>
+<p>Además del puesto de almacenista, la empresa maneja otros puestos clave, tales como:</p>
+<ul>
+<li><strong>Gerente de Sucursal:</strong> Responsable de la operación diaria de una sucursal, incluyendo la gestión de inventarios, atención al cliente y supervisión del personal.</li>
+<li><strong>Gerente de CEDIS:</strong> Encargado de la administración y operación del Centro de Distribución, asegurando el correcto almacenamiento y distribución de productos.</li>
+<li><strong>Vendedor:</strong> Encargado de atender a los clientes, procesar ventas y asesorar sobre los productos.</li>
+<li><strong>Comprador:</strong> Responsable de gestionar las compras de productos a proveedores, asegurando el abastecimiento adecuado.</li>
+<li><strong>Repartidor:</strong> Encargado de entregar los productos a domicilio o en el campo donde se utilizarán.</li>
+<li><strong>Contador:</strong> Maneja las finanzas de la empresa, incluyendo la facturación, pagos y gestión de créditos de los clientes.</li>
+<li><strong>Supervisor de Zona:</strong> Coordina las actividades de varias sucursales y CEDIS dentro de una zona específica.</li>
+<li><strong>Personal de Atención al Cliente:</strong> Encargado de resolver dudas y problemas de los clientes, así como de gestionar sus cuentas y créditos.</li>
+</ul>
+</section>
+<section id="ejemplos" class="level2">
+<h2 class="anchored" data-anchor-id="ejemplos">Ejemplos</h2>
+<ul>
+<li>El CEDIS “Aeropuerto” compra, a “Fertilizantes del Bajío”,
+<ul>
+<li>Fertilizante triple 17 “Ever Green” en diferentes presentaciones: 20 costales de 5 kilos, 100 bolsas de 1 kilo, 50 bolsas de medio kilo;</li>
+<li>20 cajas con 100 paquetes de 50 bolsitas de 10 gramos de fertilizante de liberación lenta “Ever Grow”;</li>
+<li>Fertilizante foliar “Beauty flower”: 100 botellas de 1 litro, 50 botellas de un galón.</li>
+</ul></li>
+<li>Juan Méndez del CEDIS “Imala” solicita al CEDIS “Aeropuerto” un TI de:
+<ul>
+<li>40 sacos de 50 kilos de fertilizante Urea “Tepeyac”.</li>
+<li>20 sacos de 50Kg de semilla de trigo</li>
+</ul>
+Felipe Mejía de “Aeropuerto” acepta y lo envía con Alberto Zamudio, en “Imala” recibe Alfonzo Cuadras.</li>
+<li>La Ing. Brenda Solares compra a la sucursal “Caballito”, via telefónica:
+<ul>
+<li>10 toneladas de NAC27 de “Fertiberia”</li>
+</ul>
+Pide que se lo lleven al “Campo Victoria”; lo cargan a su cuenta. <br> El primer pago se retrasa por 3 meses. Por lo que se generan intereses de esos primeros meses. El resto de los pagos los realiza a tiempo.</li>
+<li>El señor Manuel Castro compra para su huerto familiar:
+<ul>
+<li>3 bolsitas de 7 gramos de ácido giberélico “Raligeb”<br>
+</li>
+<li>1 botella de 1 litro de foliar “EcoJal”<br>
+Paga en efectivo.</li>
+</ul></li>
+</ul>
+</section>
+<section id="reportes" class="level2">
+<h2 class="anchored" data-anchor-id="reportes">Reportes</h2>
+<section id="ventas" class="level3">
+<h3 class="anchored" data-anchor-id="ventas">Ventas</h3>
+<ul>
+<li>Reporte de Ventas Diarias
+<ul>
+<li>Descripción: Muestra las ventas realizadas cada día, incluyendo detalles de los productos vendidos.</li>
+<li>Campos: Fecha, Producto, Variante, Cantidad Vendida, Ingresos Totales.</li>
+</ul></li>
+<li>Reporte de Ventas por Sucursal
+<ul>
+<li>Descripción: Muestra las ventas realizadas en cada sucursal, desglosadas por producto y variante.</li>
+<li>Campos: Sucursal, Producto, Variante, Cantidad Vendida, Ingresos Totales.</li>
+</ul></li>
+<li>Reporte de Ventas por Vendedor
+<ul>
+<li>Descripción: Muestra las ventas realizadas por cada vendedor, incluyendo detalles de los productos vendidos.</li>
+<li>Campos: Vendedor, Producto, Variante, Cantidad Vendida, Ingresos Totales.</li>
+</ul></li>
+<li>Reporte de Ventas por Cliente</li>
+</ul>
+<p>Descripción: Muestra las ventas realizadas a cada cliente, incluyendo detalles de los productos comprados. Campos: Cliente, Fecha de Venta, Producto, Variante, Cantidad, Precio Total. Reporte de Ventas por Categoría de Producto</p>
+<p>Descripción: Muestra las ventas agrupadas por categoría de producto, desglosadas por variante. Campos: Categoría, Producto, Variante, Cantidad Vendida, Ingresos Totales. Reporte de Ventas Mensuales</p>
+<p>Descripción: Muestra las ventas realizadas cada mes, incluyendo detalles de los productos vendidos. Campos: Mes, Producto, Variante, Cantidad Vendida, Ingresos Totales. Reporte de Ventas con Descuentos Aplicados</p>
+<p>Descripción: Muestra las ventas en las que se aplicaron descuentos, incluyendo detalles de los productos vendidos y el monto del descuento. Campos: Fecha, Producto, Variante, Cantidad Vendida, Descuento Aplicado, Ingresos Totales. Reporte de Ventas por Método de Pago</p>
+<p>Descripción: Muestra las ventas desglosadas por método de pago (efectivo, tarjeta, crédito, etc.). Campos: Método de Pago, Producto, Variante, Cantidad Vendida, Ingresos Totales. Reporte de Ventas por Región</p>
+<p>Descripción: Muestra las ventas realizadas en diferentes regiones, desglosadas por producto y variante. Campos: Región, Producto, Variante, Cantidad Vendida, Ingresos Totales. Reporte de Ventas de Productos Tóxicos</p>
+<p>Descripción: Muestra las ventas de productos clasificados como tóxicos, incluyendo detalles de los productos vendidos. Campos: Fecha, Producto, Variante, Cantidad Vendida, Ingresos Totales.</p>
+<p>Reporte de Rentabilidad por Producto</p>
+<p>Descripción: Analiza la rentabilidad de cada producto considerando los costos de adquisición, almacenamiento y distribución, comparados con los ingresos generados por las ventas. Campos: Producto, Variante, Ingresos Totales, Costos Totales, Margen de Rentabilidad. Reporte de Tendencias de Ventas</p>
+<p>Descripción: Identifica las tendencias de ventas a lo largo del tiempo, mostrando patrones estacionales, picos de demanda y productos emergentes. Campos: Producto, Variante, Ventas Mensuales, Tendencia (Creciente/Decreciente). Reporte de Análisis de Clientes</p>
+<p>Descripción: Segmenta a los clientes según su comportamiento de compra, identificando los clientes más valiosos, los que compran con mayor frecuencia y aquellos que han disminuido sus compras. Campos: Cliente, Frecuencia de Compra, Valor Total de Compras, Segmento de Cliente (VIP, Frecuente, Inactivo). Reporte de Eficiencia de Sucursales</p>
+<p>Descripción: Evalúa la eficiencia de cada sucursal en términos de ventas, costos operativos y satisfacción del cliente. Campos: Sucursal, Ventas Totales, Costos Operativos, Índice de Satisfacción del Cliente, Eficiencia Operativa. Reporte de Impacto de Promociones</p>
+<p>Descripción: Analiza el impacto de las promociones y descuentos en las ventas, identificando cuáles promociones fueron más efectivas y su efecto en el margen de rentabilidad. Campos: Promoción, Producto, Variante, Incremento en Ventas, Margen de Rentabilidad, ROI de la Promoción. Reporte de Devoluciones y Reclamaciones</p>
+<p>Descripción: Muestra las devoluciones y reclamaciones de productos, identificando patrones y causas comunes para mejorar la calidad y el servicio al cliente. Campos: Producto, Variante, Cantidad Devuelta, Motivo de Devolución, Costo de Devoluciones. Reporte de Análisis de Competencia</p>
+<p>Descripción: Compara las ventas y precios de los productos con los de la competencia, identificando oportunidades para ajustar estrategias de precios y promociones. Campos: Producto, Variante, Precio Interno, Precio de la Competencia, Diferencia de Precio, Ventas Comparativas. Reporte de Proyección de Ventas</p>
+<p>Descripción: Utiliza datos históricos y análisis predictivo para proyectar las ventas futuras, ayudando en la planificación de inventarios y estrategias de marketing. Campos: Producto, Variante, Ventas Históricas, Proyección de Ventas, Factores de Influencia. Reporte de Cumplimiento de Objetivos de Ventas</p>
+<p>Descripción: Evalúa el desempeño de las ventas en relación con los objetivos establecidos, identificando áreas de mejora y éxitos. Campos: Producto, Variante, Objetivo de Ventas, Ventas Reales, Desviación del Objetivo, Comentarios. Reporte de Análisis de Canales de Venta</p>
+<p>Descripción: Analiza el desempeño de diferentes canales de venta (tienda física, online, telefónica), identificando cuál canal es más efectivo para cada tipo de producto. Campos: Canal de Venta, Producto, Variante, Ventas Totales, Costos Asociados, Margen de Rentabilidad.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../index.html" class="pagination-link" aria-label="Preface">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Preface</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../Bichos/Bichos_de_bolsillo.html" class="pagination-link" aria-label="Pokémon Go">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Pokémon Go</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

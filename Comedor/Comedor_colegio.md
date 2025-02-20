@@ -33,13 +33,13 @@ Actualmente es la semana 20 y los padres pueden seleccionar de este menú:
 El señor Ramírez tiene 2 hijos, no se quiere complicar y ordena lo mismo para sus hijos; paga el total:
 
 Órdenes de Juan para la semana 21
-|Día	|Comida	|Bebida	|Postre |
+| Día	| Comida	| Bebida	| Postre |
 |-------|-------|-------|-------|
-|Lunes	|Tacos de carne asada|	Agua de horchata	|Frutos rojos|
-|Martes	|Mole poblano	|Agua de pepino	|Mangoneadas|
-|Miércoles	|Enchiladas verdes|	Agua de jamaica	|Pastel de chocolate|
-|Jueves	|Tamales de verdura	|Agua de piña	|Frutos rojos|
-|Viernes	|Ceviche de soya|	Agua de melón|	Flan|
+| **Lunes**	| Tacos de carne asada|	Agua de horchata	| Frutos rojos|
+| **Martes**	| Mole poblano	| Agua de pepino	| Mangoneadas|
+| **Miércoles**	| Enchiladas verdes| Agua de jamaica	| Pastel de chocolate|
+| **Jueves**	| Tamales de verdura	| Agua de piña	| Frutos rojos|
+| **Viernes**	| Ceviche de soya| Agua de melón| Flan|
 
 ### Ejemplo 3 
 
@@ -59,6 +59,7 @@ El nutriólogo registra una nueva comida:
 - Aguacate: 1
 - Cebolla morada: 1
 - Pimiento rojo picante o dulce: 1  
+
 **Preparación:**
 
 Disponer la harina de garbanzos en un cuenco o jarra con el agua…

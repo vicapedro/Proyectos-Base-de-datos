@@ -7,13 +7,15 @@ book:
   date: "7/10/2015"
   chapters:
     - index.qmd
-    - Agroquimicos.md
-    - Bichos_de_bolsillo.md
-    - Comedor_colegio.md
+    - ./Agroquimicos/Agroquimicos.md
+    - ./Bichos/Bichos_de_bolsillo.md
+    - ./Comedor/Comedor_colegio.md
     - ./Conquistadores/Conquistadores.md
+    - ./Inmobiliaria/Morshu_Estates.md
     - ./Pawfect_Care/Pawfect_Care.md
+    - ./MasterBall/MasterBall_Tournaments.md
     - ./Salud y Vida/Salud y Vida.md
-    - TrumpetWare.md
+    - ./TrumpetWare/TrumpetWare.md
 
 format:
   html:
