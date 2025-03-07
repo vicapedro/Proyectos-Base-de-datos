@@ -4,26 +4,26 @@
 
 Hmmm… ¡Bienvenido, amigo! ¡A "Morshu Estates"! Aquí, si tienes suficientes rupias, te consigo la mejor propiedad de toda la región. Casas, castillos, cuevas misteriosas… lo que sea, ¡todo está a la venta o renta! Pero últimamente, manejar el negocio se ha vuelto… complicado.
 
-# ¿Cómo funciona nuestro negocio?
-## Prospección
+## ¿Cómo funciona nuestro negocio?
+### Prospección
 Primero, está la prospección. ¡Tengo ojos en todas partes, amigo! Si hay una propiedad disponible, Morshu lo sabe. Algunos dueños vienen a mí rogando que venda su propiedad, otros… bueno, digamos que encuentro "oportunidades de negocio". Antes de poner algo en venta, pruebo su calidad personalmenteee… (si no explota o tiene trampas, es buena).
 
-## Publicación
+### Publicación
 Luego, viene la publicación. Antes, bastaba con gritar en la plaza: "¡GRAN OPORTUNIDAD! ¡COMPRE AHORA!" Pero la gente quiere más detalles… quieren fotos, descripciones, precios… ¡demasiado trabajo! Ahora mando aprendices a pintar retratos de las casas y escribir pergaminos detallados, pero eso lleva tiempo.
 
-## Clientes
+### Clientes
 ¡Y los clientes! ¡Ah, los clientes! Unos buscan una casita, otros quieren una fortaleza… pero todos quieren regatear. ¡No hay regateo en "Morshu Estates", amigo! Pero claro, hay que llevar un registro de quién busca qué… y a veces me confundo. ¿Querías la casa cerca del río o la guarida de los Moblins? ¡Necesito algo mejor que anotarlo en pedazos de papel!
 
-## Visitas
+### Visitas
 Después vienen las visitas. Aquí es donde todo se complica. A veces el dueño no quiere abrir la puerta, a veces el cliente no aparece… ¡y a veces la propiedad se cae antes de que lleguen! (Culpa del constructor, no mía). Coordinar esto es un caos, ¡necesito un sistema para organizar todo!
 
-## Negociación
+### Negociación
 Cuando alguien decide comprar, viene la negociación. Aquí es donde brillo, amigo. Se firman contratos, se pagan depósitos, a veces hay que hacer "ajustes" a los papeles… pero claro, si pierdo un documento, problema para mí. Y sin un buen registro, a veces olvido quién ya pagó y quién no.
 
-## Tipos de Propiedades
+### Tipos de Propiedades
 Ah, y no olvidemos que hay diferentes tipos de propiedades. ¡Un cliente puede querer un castillo hoy y una choza en el bosque mañana! Necesito organizar esto bien, porque ahora solo tengo una bolsa con pergaminos y monedas mezcladas. Quiero saber saber su nombre, ubicación, superficie, precio y el dueño actual. Y algunas cosas mas según el tipo de propiedad
 
-### 🏰 "Fortalezas Morshu™" (Castillos) 🏰
+#### 🏰 "Fortalezas Morshu™" (Castillos) 🏰
 "¡Un castillo digno de un rey… o de un villano con grandes planes!"
 
 **📜 Información importante:**
@@ -34,7 +34,7 @@ Ah, y no olvidemos que hay diferentes tipos de propiedades. ¡Un cliente puede q
 - Habitaciones secretas (No pregunten cómo las encontré… pero están ahí).
 - Estado del trono (Algunos clientes solo compran si hay un trono decente).
 
-### 🏢 "Cajas Altas Morshu™" (Departamentos) 🏢
+#### 🏢 "Cajas Altas Morshu™" (Departamentos) 🏢
 
 "¿Quieres vivir alto sin gastar tantas rupias? ¡Este es el lugar!"
 
@@ -46,7 +46,7 @@ Ah, y no olvidemos que hay diferentes tipos de propiedades. ¡Un cliente puede q
 - Reglas de la torre (¿Mascotas? ¿Fiestas? ¿Héroes con espadas? Todo debe estar claro).
 - Mantenimiento de los pasillos (¿Está limpio o huele a ruinas antiguas?).
 
-### 🏡 "Casuchas Morshu™" (Casas) 🏡
+#### 🏡 "Casuchas Morshu™" (Casas) 🏡
 "¡Casitas acogedoras para héroes cansados y comerciantes con grandes planes!"
 
 **📜 Información importante:**
@@ -57,7 +57,7 @@ Ah, y no olvidemos que hay diferentes tipos de propiedades. ¡Un cliente puede q
 - Nivel de infestación de ratas (¡Algunas casas vienen con misiones secundarias incluidas!).
 - Sótano utilizable (Si el cliente quiere esconder cosas… ¡digo, almacenar objetos!).
 
-### 🌴 "Paraísos Morshu™" (Villas) 🌴
+#### 🌴 "Paraísos Morshu™" (Villas) 🌴
 "¡Para los que tienen MUCHAS rupias y quieren vivir como reyes!"
 
 **📜 Información importante:**
@@ -69,10 +69,10 @@ Ah, y no olvidemos que hay diferentes tipos de propiedades. ¡Un cliente puede q
 - Posibilidades de expansión (Algunos clientes quieren seguir construyendo... o fortificándose).
 
 
-## Posventa
+### Posventa
 Y por último… la atención postventa. Algunos clientes vuelven a comprar, otros necesitan mantenimiento… y algunos desaparecen misteriosamente (¡nada que ver conmigo!). Pero si los olvido, pueden irse a otra inmobiliaria, ¡y Morshu NO PIERDE NEGOCIOS!
 
-# ¿Qué necesito?
+## ¿Qué necesito?
 Hmmm… ¡un sistema que haga esto más fácil! Algo que:
 - Registre las propiedades sin que tenga que memorizar todo.
 - Guarde información de dueños y clientes sin que use tres bolsas diferentes.
