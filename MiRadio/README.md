@@ -16,7 +16,7 @@ Un sistema que me permita:
 ### Las canciones
 Cada canción tiene un nombre, un género, un año de lanzamiento y uno o mas autores, cada uno con diferente rol: Letrista (el que escribe la letra) o Compositor ( de la música). Estos autores son los que tienen los derechos de autor de la canción.
 
-Un intérprete puede grabar una versión de una canción. Un intérprete puede ser un cantante o un grupo musical.
+Un **intérprete** puede grabar una **versión** de una canción. Un intérprete puede ser un cantante o un grupo musical.
 
 Cada versión tiene una letra y un archivo de audio asociado.
 

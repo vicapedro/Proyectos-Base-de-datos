@@ -12,13 +12,25 @@ Si el médico puede diagnosticar con esta información puede indicar un tratamie
 
 Cualquiera de los médicos puede necesitar mas información para disgnosticar, por lo que puede ordenar algún procedimiento extra: análisis clinicos, biopsias o estudios de imagenología(rayos X, tomografía, resonancia, etc).
 
+El personal medico de Salud y Vida está compuesto por doctores empleados y doctores independientes.
+- **Doctores empleados**: Tienen relación laboral directa, salario, prestaciones y horarios fijos.
+- **Doctores independientes** (renta de consultorio): Pagan renta, pueden tener agenda propia, y la clínica cobra comisión por consulta o servicios.
+
 La receta es una lista de medicamentos, dosis, frecuencia, duración e indicaciones. Al imprimirse, lleva el nombre, firma y cédula del médico.
 
-La receta se surte en la farmacia de Salud y Vida. El dependiente verifica la receta, si es de Salud y Vida la coteja con el sistema, si no simplemente la surte *(Pendiente: medicamento controlado ¿Es necesario hacer la distinción?)* y cobra. 
+La receta se surte en la farmacia de Salud y Vida. El dependiente verifica la receta, si es de Salud y Vida la coteja con el sistema. Si es de un médico externo, el dependiente verifica que la receta sea válida y surte los medicamentos.
+
+
+
+
+### Presentación de medicamentos y cálculo de entrega
 
 Es necesario llevar un control del inventario de medicamentos. 
 
-*Pendiente de redacción: presentación de medicamentos, dosis. Para que el sistema le indique al dependiente con la dosis, frecuencia y duración del tratamiento, cuantas cajas darle al paciente.*
+El sistema debe registrar la presentación de cada medicamento (por ejemplo, tabletas, cápsulas, frascos, miligramos por unidad, etc.) y su contenido por empaque. Al momento de surtir una receta, el sistema debe calcular automáticamente la cantidad total de medicamento necesaria para cubrir la dosis, frecuencia y duración del tratamiento indicado por el médico.
+
+Con base en estos datos, el sistema sugerirá al dependiente el número exacto de cajas, frascos o unidades que debe entregar al paciente, procurando siempre entregar empaques completos y evitando fraccionamientos innecesarios. Además, el sistema debe advertir si el inventario es insuficiente para surtir la receta completa y permitir registrar entregas parciales si es necesario.
+
 
 Todos los servicios de Salud y Vida se proporcionan independientemente si la orden es de un médico interno o externo. Se debe pagar antes de recibir el servicio. Los servicios de análisis clínicos e imagenología pueden ser consultados por los médicos o los clientes a través del sistema. A los clientes se les entrega y envía por email un comprobante con un número de servicio y una contraseña. Por email también se incluye una URL para facilidad de acceso *(Nota: esta URL no se guarda en la base de datos. Esto es para otra materia)*.
 
