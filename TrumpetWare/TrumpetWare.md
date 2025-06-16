@@ -85,48 +85,54 @@ El territorio nacional está dividido en regiones logísticas.
 
 ### Producción
 
-Proceso de Producción
+**Proceso de Producción**
 La empresa produce sus propios artículos y gestiona su fabricación con base en:
-Productos: La lista completa de productos manufacturados.
-Recetas de producción: Cada producto tiene una receta que especifica los materiales necesarios y su cantidad.
-Líneas de producción: Fábricas o áreas designadas para fabricar productos específicos.
-Tiempos de producción: El tiempo estimado en horas/días para fabricar cada unidad del producto.
-Costo de producción: Calculado con base en materiales, mano de obra y costos indirectos.
-Materiales
+- Productos: La lista completa de productos manufacturados.
+- Recetas de producción: Cada producto tiene una receta que especifica los materiales necesarios y su cantidad.
+- Líneas de producción: Fábricas o áreas designadas para fabricar productos específicos.
+- Tiempos de producción: El tiempo estimado en horas/días para fabricar cada unidad del producto.
+- Costo de producción: Calculado con base en materiales, mano de obra y costos indirectos.
+**Materiales**
 Los materiales necesarios para la producción incluyen:
-Nombre y descripción del material.
-Unidad de medida (kg, litros, piezas, etc.).
-Costo por unidad.
-Stock actual en el almacén de materias primas.
-Proveedor asignado.
-Gestión de inventario de materias primas
-Se monitorea el inventario de materiales en los almacenes.
-Si el inventario cae por debajo del mínimo requerido, se genera una orden de compra al proveedor.
-Los materiales son asignados a órdenes de producción según su disponibilidad.
-Órdenes de Producción
+- Nombre y descripción del material.
+- Unidad de medida (kg, litros, piezas, etc.).
+- Costo por unidad.
+- Stock actual en el almacén de materias primas.
+- Proveedor asignado.
+
+**Gestión de inventario de materias primas**
+- Se monitorea el inventario de materiales en los almacenes.
+- Si el inventario cae por debajo del mínimo requerido, se genera una orden de compra al proveedor.
+- Los materiales son asignados a órdenes de producción según su disponibilidad.
+
+**Órdenes de Producción**
 La producción se organiza en órdenes de producción, que incluyen:
-Producto a fabricar.
-Cantidad requerida.
-Fecha de inicio y finalización estimada.
-Línea de producción asignada.
-Estado de la orden: Pendiente, En Proceso, Completada.
+- Producto a fabricar.
+- Cantidad requerida.
+- Fecha de inicio y finalización estimada.
+- Línea de producción asignada.
+- Estado de la orden: Pendiente, En Proceso, Completada.
+
 Las órdenes se generan con base en:
-La demanda proyectada para las campañas.
-Inventario disponible en los CEDIS.
-Optimización de Producción
-Pronóstico de demanda: Basado en ventas históricas y campañas futuras, se ajusta el volumen de producción.
-Producción escalonada: Para productos de alta demanda o con alta rotación, se producen lotes en intervalos planificados.
-Capacidad de las líneas: Se considera la capacidad diaria de las líneas de producción para evitar cuellos de botella.
-Proveedores
+
+- La demanda proyectada para las campañas.
+- Inventario disponible en los CEDIS.
+- Optimización de Producción
+- Pronóstico de demanda: Basado en ventas históricas y campañas futuras, se ajusta el volumen de producción.
+- Producción escalonada: Para productos de alta demanda o con alta rotación, se producen lotes en intervalos planificados.
+- Capacidad de las líneas: Se considera la capacidad diaria de las líneas de producción para evitar cuellos de botella.
+
+**Proveedores**
 De cada proveedor se registra:
-Nombre, dirección, datos de contacto.
+- Nombre, dirección, datos de contacto.
 Materiales que suministra.
-Tiempos de entrega promedio.
-Historial de cumplimiento de órdenes.
-Control de calidad
+- Tiempos de entrega promedio.
+- Historial de cumplimiento de órdenes.
+
+**Control de calidad**
 Antes de enviar los productos a los CEDIS, se realiza un control de calidad que evalúa:
-Dimensiones, peso, y especificaciones del producto.
-Lotes defectuosos se separan para ser reprocesados o desechados.
+- Dimensiones, peso, y especificaciones del producto.
+- Lotes defectuosos se separan para ser reprocesados o desechados.
 
 
 
@@ -172,19 +178,22 @@ Lotes defectuosos se separan para ser reprocesados o desechados.
    - El equipo de producción reprograma la fabricación de 20 unidades adicionales para reponer las dañadas.
 4. Optimización de Costos:
 
-Durante la campaña "Amor en Tiempos del Covid", el sistema sugiere ajustar la receta de "Talco Corporal Perfumado" reemplazando un material por otro de igual calidad, pero con menor costo.
-El cambio es aprobado, reduciendo el costo de producción en un 5% sin afectar las ventas.
-Demanda no prevista:
+- Durante la campaña "Amor en Tiempos del Covid", el sistema sugiere ajustar la receta de "Talco Corporal Perfumado" reemplazando un material por otro de igual calidad, pero con menor costo.
+- El cambio es aprobado, reduciendo el costo de producción en un 5% sin afectar las ventas.
 
-Un artículo nuevo, "Organizador Multifuncional", tiene una demanda 30% mayor a lo proyectado en su primera campaña.
-El sistema detecta el agotamiento del inventario en los CEDIS y genera una orden de producción urgente.
-El área de producción reorganiza las líneas y fabrica 5,000 unidades adicionales en 2 semanas.
-Pronóstico Erróneo:
+5. Demanda no prevista:
 
-Un exceso de inventario de "Velas Aromáticas Pure Serenity" tras la campaña "Otoño Místico" obliga a la empresa a realizar ajustes.
-Las velas restantes se redistribuyen a las siguientes campañas como productos en promoción, lo que ayuda a minimizar pérdidas.
-Pedidos Especiales:
+- Un artículo nuevo, "Organizador Multifuncional", tiene una demanda 30% mayor a lo proyectado en su primera campaña.
+- El sistema detecta el agotamiento del inventario en los CEDIS y genera una orden de producción urgente.
+- El área de producción reorganiza las líneas y fabrica 5,000 unidades adicionales en 2 semanas.
 
-Un gran cliente solicita 1,000 unidades personalizadas del "Eau d’parfum".
-Se genera una orden de producción específica con su propio número de lote.
-La producción se prioriza, y el cliente recibe el pedido en tiempo y forma.
+6. Pronóstico Erróneo:
+
+- Un exceso de inventario de "Velas Aromáticas Pure Serenity" tras la campaña "Otoño Místico" obliga a la empresa a realizar ajustes.
+- Las velas restantes se redistribuyen a las siguientes campañas como productos en promoción, lo que ayuda a minimizar pérdidas.
+
+7. Pedidos Especiales:
+
+- Un gran cliente solicita 1,000 unidades personalizadas del "Eau d’parfum".
+- Se genera una orden de producción específica con su propio número de lote.
+- La producción se prioriza, y el cliente recibe el pedido en tiempo y forma.
