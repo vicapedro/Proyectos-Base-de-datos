@@ -1,7 +1,6 @@
 # Zaboo Mazoo
 
 
-<img src="Narrador.jpg" width="50%">
 
 Mira, te voy a ser sincero: aquí llevamos años trabajando con papel y lápiz, y ya no damos más. ¡Tenemos más papeles que pelos tiene un orangután! Y eso que yo soy biólogo, no archivista. Pero bueno, aquí estoy, tratando de meter en caja todo este desorden porque, aunque no sé nada de bases de datos, sé que necesitamos algo mejor.
 
