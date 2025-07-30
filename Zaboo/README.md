@@ -70,4 +70,4 @@ Nada que se caiga cada dos por tres. Necesito algo confiable.
 ### Resumiendo
 Necesito un sistema que me ayude a organizar toda la información del zoológico, desde los animales hasta los proveedores, pero que sea fácil de usar y rápido. No quiero perder más tiempo buscando papeles o descifrando letras ilegibles. Y, sobre todo, quiero algo que me permita dedicarme a lo que más me gusta: cuidar a los animales.
 
-¿Te animas a ayudarme? ¡Seguro que sí! Y si necesitas más detalles, aquí estaré, con mis cuadernos y mis servilletas, esperando tu solución. 😄
+¿Te animas a ayudarme? ¡Seguro que sí! Y si necesitas más detalles, aquí estaré, con mis cuadernos y mis servilletas, esperando tu solución. 

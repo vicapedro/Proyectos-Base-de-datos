@@ -53,28 +53,3 @@ Ejemplos de información que se almacena:
     3.	ldentificar, en vivo o a partir de fotos, por lo menos dos razas de las siguientes especies, destacando su respectiva aptitud (carne, huevos, plumas y/o piel): a) Pato d) Codorniz b) Pollo e) Pavo e) Ganso f) Avestruz 
     4.	Describir un programa de alimentación para aves domésticas, desde la eclosión de los huevos hasta la etapa adulta. 
 
-## Consultas
-
-Obtener la siguiente información (no están en orden de dificultad):
-1.	Lista de asistencia del club Águilas Reales para el día 1 de noviembre de 2020
-2.	Cargos (roles) que ha tenido Ramón Verdiales en los clubes ordenado por año
-3.	Lista de clubes activos
-4.	Directores de los clubes activos en el estado de Sinaloa ordenado por club
-5.	Lista de miembros del club con progreso en cumplimiento de requisitos ordenado por clase y por nombre resaltando a los que han cumplido al menos el 80% de los requisitos 
-6.	Clubes de Jalisco con miembros que han cumplido al menos el 80% de los requisitos
-7.	Personas que han investido de Guía Mayor que viven en Sinaloa
-8.	Personas que han obtenido la especialidad de Aves Domésticas
-9.	Clubes con mas de 2 años de inactividad
-10.	Historial de directores del club Saraperos de Saltillo
-11.	Año con más clubes activos
-12.	Lista de miembros del club Polaris ordenado por cantidad de especialidades obtenidas
-13.	Cantidad de clubes activos por estado
-14.	Personas con mas de 10 años de servicio ininterrumpido en los clubes ordenados por estado
-
-## Reportes
-1.	El director del club Polaris quiere obtener la lista de miembros activos que están sacando la especialidad de Avicultura y en que fecha cumplieron cada requisito
-2.	Manual de especialidades. Listado de áreas, listado de especialidades por área, requisitos de cada especialidad con información general de la especialidad de encabezado 
-3.	El coordinador de clubes a nivel nacional quiere un histograma del tamaño de clubes activos
-4.	El director del club Saraperos quiere un reporte de asistencia de miembros del periodo actual agrupados por unidad con nombre del consejero
-5.	El instructor de la clase Amigo del club Delfines quiere saber los requisitos de clase cumplidos y no cumplidos por Juan Pérez. En el encabezado incluir el porcentaje de cumplimiento y el nombre del miembro, club e instructor. Precondición: Juan Pérez es miembro activo de esta clase y club.
-6.	
