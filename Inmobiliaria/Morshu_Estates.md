@@ -1,7 +1,5 @@
 # "Morshu Estates"
 
-![Morshu Estates](Morshu_Estates.jpg)
-
 Hmmm… ¡Bienvenido, amigo! ¡A "Morshu Estates"! Aquí, si tienes suficientes rupias, te consigo la mejor propiedad de toda la región. Casas, castillos, cuevas misteriosas… lo que sea, ¡todo está a la venta o renta! Pero últimamente, manejar el negocio se ha vuelto… complicado.
 
 ## ¿Cómo funciona nuestro negocio?
