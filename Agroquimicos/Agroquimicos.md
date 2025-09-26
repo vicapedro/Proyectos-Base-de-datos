@@ -179,3 +179,39 @@ Reporte de Análisis de Canales de Venta
 
 Descripción: Analiza el desempeño de diferentes canales de venta (tienda física, online, telefónica), identificando cuál canal es más efectivo para cada tipo de producto.
 Campos: Canal de Venta, Producto, Variante, Ventas Totales, Costos Asociados, Margen de Rentabilidad.
+
+## Historias de Validación
+
+### Historia 1: La emergencia fitosanitaria del tomate
+Durante la temporada alta de marzo, se detecta una plaga de mosca blanca en los cultivos de tomate de toda la región. El ing. agrónomo Carlos Mendoza del Rancho "San Miguel" llama urgentemente a la sucursal "Caballito" necesitando: 50 litros de insecticida sistémico "Confidor Maxx", 30 kg de coadyuvante "Kinetic" y 20 litros de penetrante "Silwet L-77". La sucursal solo tiene 10 litros de Confidor y nada de los otros productos. El vendedor José Ramírez coordina con el CEDIS "Aeropuerto": solicita un TI urgente de los productos faltantes. El almacenista Pedro López autoriza el traslado y envía todo con el repartidor Miguel Santos. Mientras tanto, otros 15 agricultores de la zona hacen pedidos similares, agotando completamente el stock regional de estos productos. La empresa debe hacer compras de emergencia a 3 proveedores diferentes para cubrir la demanda, pagando precios 25% más altos que los normales.
+
+**Pregunta para validar:** ¿Cómo registrarías una situación de emergencia con traslados urgentes, agotamiento de inventario regional, compras de emergencia con precios especiales y múltiples clientes con necesidades similares?
+
+### Historia 2: El crédito complicado de la cooperativa "Tierra Fértil"
+La cooperativa "Tierra Fértil" (conformada por 45 pequeños productores) solicita crédito para la temporada de siembra. Su pedido incluye: 200 toneladas de fertilizante DAP "Fertimex", 50 toneladas de urea granulada "Tepeyac", 500 kg de semilla de maíz híbrido "Pioneer" y 300 litros de herbicida "Roundup Max". El monto total es de $2,850,000. Durante los primeros 3 meses pagan puntualmente, pero en el cuarto mes se retrasan 45 días generando intereses del 10%. En el quinto mes, algunos miembros de la cooperativa se retiran por diferencias internas, reduciendo su capacidad de pago. Renegocian la deuda: extienden el plazo a 8 meses, pero deben pagar un interés adicional del 5%. Finalmente logran liquidar la deuda, pero 3 meses después regresan con un pedido aún mayor para la siguiente temporada.
+
+**Pregunta para validar:** ¿Cómo manejarías un cliente corporativo con múltiples miembros, pagos con retrasos e intereses, renegociación de términos de crédito y el historial para futuras decisiones crediticias?
+
+### Historia 3: El traslado masivo por contaminación
+El CEDIS "Norte" sufre una contaminación por derrame de un fungicida líquido que afecta 40% de su inventario. Se debe trasladar urgentemente todo el inventario no contaminado a los CEDIS "Aeropuerto" e "Imala". El proceso involucra: 150 productos diferentes en múltiples presentaciones, 8 camiones especializados para productos peligrosos, 15 empleados trabajando en turno doble, inspección de cada producto antes del traslado, y coordinación con 12 sucursales que dependen del CEDIS Norte. Durante el traslado, se descubre que algunos productos tienen fechas de caducidad próximas, otros necesitan condiciones especiales de almacenamiento, y ciertos productos tóxicos requieren permisos especiales para el transporte. El proceso toma 4 días completos, durante los cuales las ventas de productos tóxicos se suspenden en 6 sucursales de la zona.
+
+**Pregunta para validar:** ¿Cómo registrarías un traslado masivo de emergencia, con inventario contaminado vs no contaminado, múltiples destinos, productos con diferentes requerimientos y suspensión temporal de ventas?
+
+### Historia 4: La temporada de sequía y los cambios de demanda
+Durante una sequía severna que dura 4 meses, los patrones de compra cambian drásticamente. Los fertilizantes líquidos y foliares aumentan su demanda 300%, mientras que los herbicidas tradicionales bajan 60%. El fruticultor Roberto Vásquez cambia toda su estrategia: cancela su pedido anual de 10 toneladas de fertilizante granular "Triple 17" y solicita: 500 litros de fertilizante foliar "Power Grow", 200 kg de bioestimulante en polvo "Root Master", 100 litros de humectante "AquaMax" y un sistema de riego por goteo. Paralelamente, 23 agricultores más hacen cambios similares. La empresa debe ajustar sus compras a proveedores, renegociar contratos existentes, y establecer nuevos acuerdos con proveedores de tecnología de riego. Al final de la sequía, algunos cambios se mantienen permanentemente, alterando el perfil de productos de la empresa.
+
+**Pregunta para validar:** ¿Cómo manejarías cambios masivos en patrones de demanda, cancelación y sustitución de pedidos, ajustes de inventario por condiciones climáticas y cambios permanentes en el catálogo de productos?
+
+### Historia 5: La expansión a la zona sur y sus complicaciones
+"Gallo Giro" decide expandirse a la zona sur, estableciendo el nuevo CEDIS "Pacifico" y 4 sucursales nuevas. El proceso incluye: contratación de 25 empleados nuevos en diferentes puestos, traslado inicial de inventario desde otros CEDIS, establecimiento de relaciones con 8 proveedores locales, y adaptación a regulaciones estatales diferentes. Durante los primeros 6 meses surgen problemas: 2 empleados renuncian por mejor oferta, se descubre que 3 productos populares en el norte no tienen demanda en el sur, un proveedor local quiebra dejando compromisos sin cumplir, y las regulaciones locales prohíben el almacenamiento conjunto de ciertos productos químicos. La empresa debe: redistribuir personal, ajustar el mix de productos, encontrar proveedores alternativos, y remodelar las instalaciones de almacenamiento para cumplir normativas.
+
+**Pregunta para validar:** ¿Cómo registrarías una expansión geográfica con nuevas instalaciones, personal, proveedores regionales, diferencias regulatorias y ajustes posteriores por condiciones locales?
+
+### Historia 6: El caso de los productos defectuosos y el recall
+El proveedor "AgroTech Internacional" notifica que el lote #AT-2024-157 del fungicida "CureAll Plus" (500 unidades de 1 litro) tiene una concentración incorrecta del principio activo que puede dañar cultivos. "Gallo Giro" ya vendió 320 unidades a 47 clientes diferentes en 3 estados. Se inicia un recall inmediato: contactar a todos los clientes afectados, ofrecer reembolso completo o cambio por otro producto, enviar técnicos especializados para evaluar daños en cultivos ya tratados, coordinar con el proveedor para el manejo de producto defectuoso, y gestionar reclamos de seguros. Algunos clientes ya aplicaron el producto: 12 reportan daños menores en cultivos, 3 tienen pérdidas significativas, y 2 amenazan con demandas legales. El proceso de recall toma 3 meses, cuesta $450,000 en total, pero se resuelve satisfactoriamente manteniendo la confianza de los clientes.
+
+**Pregunta para validar:** ¿Cómo manejarías un recall de producto defectuoso con trazabilidad completa de ventas, múltiples tipos de resolución con clientes, evaluación de daños, coordinación con proveedor y seguros, y el impacto financiero total?
+
+
+
+

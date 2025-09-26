@@ -1,4 +1,8 @@
-## Salud y Vida
+# Salud y Vida - Atención que entiende a tu familia
+
+## Introducción
+Salud y Vida es una clínica que ofrece servicios médicos integrales, incluyendo atención primaria, especialidades médicas, análisis clínicos, imagenología y farmacia. Su objetivo es proporcionar atención de calidad a sus pacientes y facilitar el acceso a servicios médicos especializados.
+
 
 En **Salud y Vida** se necesita un sistema integral para administrar toda la información relativa a los servicios que ofrece, aunque inicialmente será solo una parte. Le han pedido diseñe una base de datos que satisfaga sus necesidades de control de la información.
 
@@ -171,6 +175,38 @@ Tratamiento de enfermedades del sistema urinario y, en hombres, del sistema repr
 - Los médicos deben poder ver las citas que tienen programadas por día y por semana
 - Reporte de Inventario de medicamentos por categoría
 - Ingresos por especialidad por doctor
+
+## Historias de Validación
+
+### Historia 1: La urgencia de la Sra. María
+La Sra. María González llega sin cita a las 2:00 PM con dolor fuerte en el pecho. La recepcionista la registra como nueva paciente: 45 años, vive en Col. Centro #123, teléfono 811-555-0987, sin alergias conocidas. El Dr. Ramírez (médico general) la atiende inmediatamente. Después del examen inicial, ordena electrocardiograma, análisis de sangre (troponinas, CPK) y radiografía de tórax. Los estudios muestran que no es infarto, sino reflujo gastroesofágico severo. Le receta Omeprazol 20mg (1 cápsula cada 12 horas por 30 días) y Domperidona 10mg (1 tableta antes de cada comida por 15 días). La Sra. María paga la consulta ($450), los estudios ($890) y los medicamentos ($280) con tarjeta de crédito.
+
+**Pregunta para validar:** ¿Cómo registrarías este caso desde la llegada hasta la salida, incluyendo la atención de urgencia, los estudios ordenados y la receta surtida?
+
+### Historia 2: El tratamiento familiar de los Herrera
+Roberto Herrera agenda citas para toda su familia para chequeos anuales: él (42 años), su esposa Ana (38 años) y sus hijos Sofía (12 años) y Diego (8 años). Todos son pacientes regulares. El Dr. Morales atiende a Roberto y encuentra presión alta, lo deriva con el cardiólogo Dr. Vázquez (interno) para el siguiente martes. Ana necesita estudios ginecológicos: papanicolau y ultrasonido pélvico. A Sofía le encuentran miopía, la refieren con oftalmología externa. Diego está sano, solo se actualiza su cartilla de vacunación con refuerzo de hepatitis B. Roberto paga todas las consultas ($450 x 4), los estudios de Ana ($650), la vacuna de Diego ($120) y agenda por separado la cita cardiológica ($650) que pagará después.
+
+**Pregunta para validar:** ¿Cómo manejarías múltiples pacientes de una misma familia con diferentes necesidades y especialistas tanto internos como externos?
+
+### Historia 3: La emergencia del tratamiento oncológico
+El Sr. Pedro Morales llega con una receta externa del oncólogo Dr. Salinas para quimioterapia. Necesita: Cisplatino 50mg (6 viales), Ondansetrón 8mg (30 tabletas) y Dexametasona 4mg (20 tabletas). El dependiente de farmacia verifica que es receta válida y consulta inventario. Solo hay 4 viales de Cisplatino disponibles. El sistema calcula que faltan 2 viales para completar el tratamiento. Se programa entrega parcial inmediata (lo disponible: $3,450) y se ordena el faltante al proveedor con entrega en 2 días. Pedro autoriza el fraccionamiento, paga lo disponible en efectivo y deja su teléfono para avisar cuando llegue el resto.
+
+**Pregunta para validar:** ¿Cómo procesarías una receta externa con inventario insuficiente y manejarías la entrega parcial con seguimiento?
+
+### Historia 4: La consulta virtual seguida de presencial
+Carmen Vega, paciente diabética regular, agenda teleconsulta con su endocrinólogo Dr. Mendoza por síntomas de descontrol. Durante la videollamada (30 minutos), revisan sus lecturas de glucosa de los últimos días y el Dr. Mendoza modifica su tratamiento: suspende Metformina 850mg y prescribe Metformina XR 1000mg (1 tableta en la cena) por 30 días, más Glibenclamida 5mg (1 tableta en el desayuno) por el mismo periodo. Como los síntomas no mejoran en 3 días, Carmen agenda cita presencial de urgencia. El Dr. Mendoza la examina y ordena hemoglobina glucosilada y química sanguínea de 27 elementos. Carmen paga la teleconsulta ($350), la consulta presencial ($450), análisis ($380) y medicamentos nuevos ($195) todo con transferencia bancaria.
+
+**Pregunta para validar:** ¿Cómo vincularías la teleconsulta con la consulta presencial posterior y el ajuste de medicamentos del mismo paciente?
+
+### Historia 5: El paciente con múltiples especialidades
+Luis Jiménez, 65 años, llega derivado del Dr. García (médico general) por múltiples molestias. Su expediente muestra diabetes, hipertensión y problemas de próstata. El Dr. García lo refiere simultáneamente a: Endocrinología (Dr. Ruiz) para diabetes descontrolada, Cardiología (Dr. López) para ajuste de antihipertensivos, y Urología externa (Dr. Ramón Silva) para evaluación prostática. En Endocrinología ajustan insulina: suspenden Lantus 20 UI y prescriben Tresiba 25 UI. En Cardiología cambian Losartán por Telmisartán 80mg. El urólogo externo ordena antígeno prostático y biopsia. Luis paga cada consulta al recibirla ($450 x 3), los nuevos medicamentos ($890), los análisis ($290) y programa la biopsia ($1,450) para la siguiente semana.
+
+**Pregunta para validar:** ¿Cómo coordinarías el tratamiento de un paciente que ve múltiples especialistas con cambios de medicamentos y estudios de diferentes áreas?
+
+### Historia 6: La emergencia pediátrica nocturna
+A las 11:30 PM llega urgente la familia Martínez con su hijo Emilio de 4 años con fiebre alta (39.5°C) y dificultad para respirar. La Dra. Torres (pediatra de guardia) lo examina y sospecha neumonía. Ordena inmediatamente: radiografía de tórax, biometría hemática completa y cultivo de garganta. La radiografía confirma neumonía del lóbulo inferior derecho. Prescribe tratamiento ambulatorio: Amoxicilina suspensión 250mg (1 cucharadita cada 8 horas por 10 días), Paracetamol gotas (según fiebre) y Salbutamol inhalador (2 puffs cada 6 horas por 5 días). Los padres pagan todo en efectivo ($650 consulta + $420 estudios + $340 medicamentos) y programan cita de control en 3 días. A las 2 AM dan de alta a Emilio con mejoría.
+
+**Pregunta para validar:** ¿Cómo registrarías una atención de urgencia pediátrica nocturna con estudios inmediatos y tratamiento de alta con seguimiento programado?
 - 
 
 

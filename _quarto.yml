@@ -11,6 +11,10 @@ book:
     - ./Bichos/Bichos_de_bolsillo.md
     - ./Comedor/Comedor_colegio.md
     - ./Conquistadores/Conquistadores.md
+    - part: "Conquistadores"
+      chapters:
+      - ./Conquistadores/Conquistadores.md
+      - ./Conquistadores/Consultas.md
     - ./Inmobiliaria/Morshu_Estates.md
     - ./Pawfect_Care/Pawfect_Care.md
     - ./MasterBall/MasterBall_Tournaments.md

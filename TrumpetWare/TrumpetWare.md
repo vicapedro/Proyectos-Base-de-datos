@@ -1,7 +1,7 @@
 # TrumpetWare
 
 ## Descripción General
-TrumpetWare es un fabricante de productos de belleza y del hogar que distribuye a través de embajadores. Debido al crecimiento reciente, es necesario diseñar una Base de Datos para soportar una **Mobile App** y una **Web App** que permitan gestionar las ventas, pedidos y embajadores. Este caso práctico detalla los requisitos de la empresa.
+TrumpetWare es un fabricante de productos de belleza y del hogar que distribuye a través de embajadores. Debido al crecimiento reciente, es necesario diseñar una Base datos para soportar una **Mobile App** y una **Web App** que permitan gestionar las ventas, pedidos y embajadores. Este caso práctico detalla los requisitos de la empresa.
 
 ## Requisitos del Sistema
 ### Productos
@@ -212,3 +212,35 @@ Antes de enviar los productos a los CEDIS, se realiza un control de calidad que 
 - Un gran cliente solicita 1,000 unidades personalizadas del "Eau d’parfum".
 - Se genera una orden de producción específica con su propio número de lote.
 - La producción se prioriza, y el cliente recibe el pedido en tiempo y forma.
+
+## Historias de Validación
+
+### Historia 1: La embajadora estrella y su ascenso meteórico
+Sofía Herrera inicia como embajadora Plata en enero de 2024 en la región Norte. En su primera campaña logra $6,200 en ventas personales y recluta a 3 nuevas embajadoras bajo su mentoreo. Durante la temporada "Primavera Radiante" (campañas 4-6), sus ventas explotan: $12,500, $18,300 y $25,400 respectivamente, superando todas las metas y ganando bonificaciones en efectivo. Por su desempeño excepcional, asciende a nivel Oro en agosto y recibe una cartera de 15 embajadoras Plata para asesorar. Sin embargo, en la temporada "Otoño Elegante", 5 de sus asesoradas renuncian por presión de ventas, 3 clientes importantes se quejan de entregas tardías, y sus propias ventas bajan a $8,900 promedio por campaña. Para diciembre debe decidir si mantiene su nivel Oro o acepta regresar a Plata con menos responsabilidades pero metas más alcanzables.
+
+**Pregunta para validar:** ¿Cómo registrarías la progresión de niveles de una embajadora, el manejo de equipos bajo mentoreo, el cálculo de bonificaciones por múltiples conceptos, y la posible degradación de nivel por bajo rendimiento?
+
+### Historia 2: La crisis logística del CEDIS Occidente durante temporada alta
+Durante la temporada "Navidad Mágica", el CEDIS Occidente (que atiende 8 estados) enfrenta una crisis perfecta: un incendio menor daña 30% del almacén, el proveedor principal de envases cosméticos quiebra dejando 15,000 unidades sin empacar, y una huelga de transportistas locales retrasa entregas por 10 días. La situación afecta a 450 embajadoras y 12,000 clientes finales. La gerencia implementa un plan de contingencia: redistribuye inventario desde los CEDIS Norte y Sur, contrata una empresa de paquetería externa con 40% más costo, habilita 3 centros de distribución temporales en tiendas asociadas, y permite que embajadoras Gold recojan pedidos directamente de fábrica. El proceso de recuperación toma 6 semanas, cuesta $350,000 extra, pero se logra cumplir con el 85% de entregas navideñas. Como compensación, se otorgan créditos a clientes afectados y bonificaciones extraordinarias a embajadoras que perdieron ventas.
+
+**Pregunta para validar:** ¿Cómo manejarías una crisis logística con redistribuición de inventario entre múltiples CEDIS, costos extraordinarios de envío, centros temporales de distribución, y el sistema de compensaciones masivas?
+
+### Historia 3: El cliente problemático y la cadena de pagos complicada
+Margarita Vásquez, cliente de la embajadora Carmen López, tiene un historial de pagos complejo: debe $2,400 de pedidos de las últimas 3 campañas, pero quiere hacer un pedido nuevo de $1,800 para regalos de Día de las Madres. Las políticas de TrumpetWare prohíben nuevos pedidos con deudas mayores a 3 meses, pero Margarita ofrece un plan: pagar $800 inmediatos, $600 a los 15 días, y el resto en abonos de $200 mensuales. Paralelamente, su hija también es cliente de otra embajadora y quiere transferir su cuenta a Carmen para "consolidar pagos familiares". La situación se complica cuando Margarita reclama que 3 productos de su último pedido llegaron defectuosos, pero ya los había usado parcialmente. Carmen debe navegar entre las políticas corporativas, mantener la relación cliente, gestionar devoluciones parciales, y crear un plan de pagos que satisfaga a ambas partes mientras protege sus propias comisiones.
+
+**Pregunta para validar:** ¿Cómo registrarías un historial complejo de deudas con planes de pago personalizados, transferencia de clientes entre embajadoras, devoluciones de productos parcialmente usados, y la protección de comisiones durante disputas?
+
+### Historia 4: La campaña "Edición Limitada" y el caos de inventario
+TrumpetWare lanza la campaña especial "Tesoros Dorados" con 8 productos de edición limitada disponibles solo durante 2 semanas. La demanda explota: en las primeras 48 horas se reciben pedidos por 25,000 unidades cuando solo se produjeron 15,000. El sistema de inventario no logra actualizar en tiempo real, permitiendo que 200 embajadoras confirmen pedidos de productos ya agotados. La crisis se amplifica cuando se descubre que la línea de producción del "Set de Brochas Doradas" tiene un defecto que afecta al 40% de las unidades producidas. La empresa debe: cancelar 5,000 pedidos confirmados, ofrecer productos sustitutos con descuento del 20%, reprogramar producción urgente de 3,000 unidades adicionales, crear un sistema de lista de espera con prioridades, y compensar a 150 embajadoras que perdieron ventas por productos no disponibles. La situación genera 300 reclamaciones de clientes y obliga a replantear el sistema de gestión de inventario en tiempo real.
+
+**Pregunta para validar:** ¿Cómo manejarías sobreventa de productos con inventario limitado, cancelaciones masivas de pedidos confirmados, productos sustitutos con descuentos especiales, listas de espera con prioridades, y la gestión de reclamaciones masivas?
+
+### Historia 5: La reorganización territorial y el cambio de embajadoras
+Por optimización logística, TrumpetWare decide fusionar las regiones Centro y Bajío, cerrando el CEDIS Bajío y reubicando todo en el CEDIS Centro ampliado. El cambio afecta a 280 embajadoras y 8,500 clientes activos. Durante la transición de 3 meses surgen múltiples complicaciones: 45 embajadoras solicitan cambio de región para mantener proximidad con sus clientes, 12 embajadoras Oro pierden parte de su equipo asesorado que se reasigna a otras mentoras, los tiempos de entrega aumentan temporalmente de 3 a 7 días en ciertas zonas, y 150 clientes solicitan cambio de embajadora asignada por la nueva distancia. Adicionalmente, el nuevo CEDIS requiere 15 empleados adicionales, nuevo software de ruteo optimizado, y renegociación de contratos con 8 empresas de paquetería local. Al final de la transición, se logra reducir costos operativos en 12%, pero se pierden 35 embajadoras y 400 clientes activos por inconformidad con los cambios.
+
+**Pregunta para validar:** ¿Cómo registrarías una reorganización territorial masiva con reasignación de embajadoras y clientes, cambios en jerarquías de mentoreo, modificación de centros de distribución, y el seguimiento de la retención vs abandono durante la transición?
+
+### Historia 6: El lanzamiento del producto estrella y la competencia desleal
+TrumpetWare invierte $500,000 en desarrollar "Serum Regenerador Platinum", su producto más innovador con 18 meses de investigación. El lanzamiento en la campaña "Belleza Infinita" es espectacular: 15,000 unidades vendidas en la primera semana, trending en redes sociales, y reconocimiento de influencers de belleza. Sin embargo, a las 3 semanas aparece en el mercado "Golden Repair Serum" de la competencia, con fórmula prácticamente idéntica y precio 30% menor. La investigación revela que un ex-empleado de producción vendió la fórmula, y que 2 embajadoras Platino están promocionando secretamente el producto de la competencia a sus clientes. TrumpetWare debe: iniciar acciones legales por robo de propiedad intelectual, investigar la filtración interna, separar de la red a las embajadoras desleales, lanzar una campaña de marketing defensiva, ofrecer descuentos temporales para mantener competitividad, y rediseñar protocolos de seguridad en investigación y desarrollo. El incidente resulta en $200,000 en gastos legales y pérdida del 25% de las ventas proyectadas del producto estrella.
+
+**Pregunta para validar:** ¿Cómo manejarías el seguimiento de desarrollo de productos con costos de investigación, competencia desleal con productos copiados, investigación interna de filtración de información, separación de embajadoras por violación de exclusividad, y el impacto financiero completo del incidente?
