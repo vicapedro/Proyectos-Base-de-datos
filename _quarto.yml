@@ -1,29 +1,58 @@
 project:
   type: book
-
+  output-dir: _book
 book:
   title: "Proyectos de Bases de Datos"
   author: "Pedro Villa Casas"
   date: "7/10/2015"
   chapters:
     - index.qmd
-    - ./Agroquimicos/Agroquimicos.md
-    - ./Bichos/Bichos_de_bolsillo.md
-    - ./Comedor/Comedor_colegio.md
-    - ./Conquistadores/Conquistadores.md
+    - ./Introduccion.md
+    - part: "Agroquímicos"
+      chapters:
+        - ./Agroquimicos/Agroquimicos.md
+    - part: "Bichos de Bolsillo"
+      chapters:
+        -   ./Bichos/Bichos_de_bolsillo.md
     - part: "Conquistadores"
       chapters:
-      - ./Conquistadores/Conquistadores.md
-      - ./Conquistadores/Consultas.md
-    - ./Inmobiliaria/Morshu_Estates.md
-    - ./Pawfect_Care/Pawfect_Care.md
-    - ./MasterBall/MasterBall_Tournaments.md
-    - ./MyBeat/README.md
-    - ./Salud y Vida/Salud y Vida.md
-    - ./TrumpetWare/TrumpetWare.md
-
+        - ./Conquistadores/Conquistadores.md
+        - ./Conquistadores/Consultas.md
+    - part: "Comedor"
+      chapters:
+        - ./Comedor/Comedor_colegio.md
+        - ./Comedor/Consultas.md
+    - part: "Inmobiliaria Morshu Estates"
+      chapters:
+        - ./Inmobiliaria/Morshu_Estates.md
+    - part: "MasterBall"
+      chapters:
+        - ./MasterBall/MasterBall_Tournaments.md
+    - part: "MyBeat"
+      chapters:
+        - ./MyBeat/MyBeat.md
+        - ./MyBeat/Consultas.md
+    - part: "Pawfect Care"
+      chapters:
+        - ./Pawfect_Care/Pawfect_Care.md
+    - part: "Salud y Vida"
+      chapters:
+      - ./Salud y Vida/Salud y Vida.md
+    - part: "Taller Automotriz"
+      chapters:
+      - ./Taller Automotriz/Taller Automotriz.md
+      - ./Taller Automotriz/Consultas.md
+    - part: "TrumpetWare"
+      chapters:
+        - ./TrumpetWare/TrumpetWare.md
+    - part: "Zaboo Mazoo"
+      chapters:
+      - ./Zaboo/Zaboo Mazoo.md
+    
 format:
   html:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+    keep-tex: false
+

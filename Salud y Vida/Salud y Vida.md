@@ -206,8 +206,9 @@ Luis Jiménez, 65 años, llega derivado del Dr. García (médico general) por m�
 ### Historia 6: La emergencia pediátrica nocturna
 A las 11:30 PM llega urgente la familia Martínez con su hijo Emilio de 4 años con fiebre alta (39.5°C) y dificultad para respirar. La Dra. Torres (pediatra de guardia) lo examina y sospecha neumonía. Ordena inmediatamente: radiografía de tórax, biometría hemática completa y cultivo de garganta. La radiografía confirma neumonía del lóbulo inferior derecho. Prescribe tratamiento ambulatorio: Amoxicilina suspensión 250mg (1 cucharadita cada 8 horas por 10 días), Paracetamol gotas (según fiebre) y Salbutamol inhalador (2 puffs cada 6 horas por 5 días). Los padres pagan todo en efectivo ($650 consulta + $420 estudios + $340 medicamentos) y programan cita de control en 3 días. A las 2 AM dan de alta a Emilio con mejoría.
 
+
 **Pregunta para validar:** ¿Cómo registrarías una atención de urgencia pediátrica nocturna con estudios inmediatos y tratamiento de alta con seguimiento programado?
-- 
+  
 
 
 

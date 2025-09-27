@@ -1,5 +1,89 @@
-# Preface { .unnumbered}
+# Bienvenidos a los Proyectos de Bases de Datos {.unnumbered}
 
-This is a Quarto book.
+## ¿Qué encontrarás en este libro?
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Este libro reúne una colección única de **casos de estudio reales** para el diseño de bases de datos relacionales. Cada proyecto representa un dominio empresarial completo, escrito desde la perspectiva del dueño del negocio o stakeholder principal, no desde jerga técnica de bases de datos.
+
+## Filosofía Educativa
+
+### Aprendizaje Basado en Problemas Reales
+- **Lenguaje de dominio**: Los requerimientos están escritos como los escucharías en una reunión real con un cliente
+- **Complejidad progresiva**: Desde pequeños negocios locales hasta sistemas empresariales complejos
+- **Historias de validación**: Escenarios extremos que prueban la robustez de tu diseño
+
+### Metodología de 4 Niveles
+Cada proyecto incluye consultas SQL organizadas en niveles progresivos:
+
+1. **Básico** → SELECT, WHERE, ORDER BY, GROUP BY simple
+2. **Intermedio** → JOINs, subconsultas, agregaciones con HAVING
+3. **Avanzado** → PIVOT, COALESCE, UNION, INTERSECT, EXCEPT, CASE WHEN
+4. **Analítica** → Funciones de ventana, CTEs recursivos, análisis predictivo
+
+## Dominios de Negocio Cubiertos
+
+| Sector | Proyectos | Complejidad |
+|--------|-----------|-------------|
+| **Educativo** | Comedor Escolar, Conquistadores | Restricciones alimentarias, progresión por edades |
+| **Salud** | Salud y Vida, Pawfect Care | Expedientes médicos, inventario farmacéutico |
+| **Entretenimiento** | MyBeat, Zaboo Mazoo, MasterBall | Streaming musical, gestión zoológica, torneos |
+| **Comercial** | TrumpetWare, Taller Automotriz | MLM, mantenimiento vehicular |
+| **Tecnología** | Bichos de Bolsillo, Cuatro Cuadras | Gaming, redes sociales locales |
+| **Servicios** | Inmobiliaria Morshu, Agroquímicos | Bienes raíces, distribución especializada |
+
+## Cómo Usar Este Libro
+
+### Para Estudiantes
+1. **Lee la especificación completa** - Entiende el negocio antes de diseñar
+2. **Identifica entidades y relaciones** - Piensa como analista de negocios
+3. **Diseña tu modelo** - Normaliza considerando casos de uso reales
+4. **Implementa las consultas** - Progresa por niveles de dificultad
+5. **Valida con las historias** - Prueba tu diseño con escenarios extremos
+
+### Para Profesores
+- **Proyectos modulares**: Usa proyectos individuales o combina varios
+- **Evaluación progresiva**: Asigna consultas por nivel según el avance del curso
+- **Casos de validación**: Usa las historias para exámenes orales o proyectos finales
+- **Flexibilidad**: Adapta los requerimientos según el enfoque de tu curso
+
+## Características Únicas
+
+### Requerimientos Realistas
+- Escritos desde la perspectiva del cliente
+- Incluyen ambigüedades típicas del mundo real
+- Requieren interpretación y toma de decisiones
+
+### Historias de Validación
+Cada proyecto incluye 6 escenarios complejos que simulan:
+- **Crisis operativas** que prueban la flexibilidad del sistema
+- **Casos extremos** con múltiples variables simultáneas
+- **Cambios de negocio** que requieren adaptación del modelo
+- **Situaciones de compliance** y manejo de excepciones
+
+### Recursos Complementarios
+- **Formularios en papel**: Muestran el "antes" de la digitalización
+- **Plantillas operativas**: Documentos reales de trabajo
+- **Datos de ejemplo**: Para poblar y probar las bases de datos
+
+## Objetivos de Aprendizaje
+
+Al completar estos proyectos, desarrollarás:
+
+- **Análisis de requerimientos** en lenguaje natural de negocio
+- **Diseño conceptual y lógico** de bases de datos relacionales
+- **Habilidades de normalización** aplicadas a casos reales
+- **SQL avanzado** con consultas de múltiples niveles de complejidad
+- **Pensamiento crítico** para validar diseños con casos extremos
+- **Comunicación técnica** para documentar y justificar decisiones
+
+## Reconocimientos
+
+Este libro es resultado de años de experiencia enseñando bases de datos y trabajando con empresas reales. Los proyectos han sido probados con cientos de estudiantes y refinados basándose en sus experiencias y feedback.
+
+Agradecemos especialmente a los estudiantes y profesores que identificaron ambigüedades, sugirieron mejoras y compartieron sus soluciones creativas que enriquecieron estos casos de estudio.
+
+---
+
+**¡Comencemos este viaje hacia el dominio de las bases de datos relacionales!**
+
+*El conocimiento se construye proyecto por proyecto, consulta por consulta.*
+
