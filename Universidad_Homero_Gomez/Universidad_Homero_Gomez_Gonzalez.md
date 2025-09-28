@@ -2,11 +2,7 @@
 
 ## La Voz de Nuestra Directora General Académica
 
-Buenos días. Mi nombre es Maestra Yurema Batista Moreno, y tengo el honor de ser la Directora General Académica de la Universidad Homero Gómez González. Durante estos treinta años dedicados a la educación, he visto crecer muchas instituciones, pero pocas han tocado mi corazón como esta universidad que lleva el nombre de un hombre valiente que dedicó su vida a defender la naturaleza y las mariposas monarca.versidad Rachel Carson - Sistema de Control Escolar
-
-## La Voz de Nuestra Directora General Académica
-
-Buenos días. Mi nombre es Maestra Elena Moreno Batista, y tengo el honor de ser la Directora General Académica de la Universidad Rachel Carson. Durante estos treinta años dedicados a la educación, he visto crecer muchas instituciones, pero pocas han tocado mi corazón como esta universidad que lleva el nombre de una mujer que, como yo, entendía que cuidar la tierra es cuidar el futuro.
+Buenos días. Mi nombre es Maestra Yurema Batista Moreno, y tengo el honor de ser la Directora General Académica de la Universidad Homero Gómez González. Durante estos treinta años dedicados a la educación, he visto crecer muchas instituciones, pero pocas han tocado mi corazón como esta universidad que lleva el nombre de un hombre valiente que dedicó su vida a defender la naturaleza y las mariposas monarca.
 
 Vengo de la sierra de Chihuahua, de las montañas donde mi pueblo rarámuri me enseñó desde pequeña que todo en la naturaleza está conectado, que no somos dueños de la tierra sino sus cuidadores. Esta sabiduría ancestral, combinada con mi formación académica en Biología y mi maestría en Administración Educativa, me ha permitido entender que la educación ambiental no es solo enseñar conceptos, sino formar personas que vivan en armonía con su entorno.
 
@@ -86,6 +82,8 @@ Necesitamos su domicilio completo, teléfonos y correo electrónico, no para inv
 
 También registramos los datos de sus tutores o responsables. Aunque trabajamos con jóvenes adultos, sabemos que la familia sigue siendo un apoyo fundamental. Cuando un estudiante pasa por dificultades académicas o personales, el trabajo conjunto con la familia suele ser clave para encontrar soluciones.
 
+Algo que considero fundamental es registrar las lenguas que nuestros estudiantes hablan. Para mí, que crecí escuchando rarámuri en mi hogar, entiendo profundamente que la lengua materna es el corazón de la identidad cultural. Registramos cuál es su lengua materna y qué otras lenguas dominan, incluyendo el nivel de competencia en cada una. Esto nos permite crear grupos de estudio con hablantes de la misma lengua originaria, asignar tutores que compartan su idioma, adaptar materiales educativos, y sobre todo, valorar y preservar la riqueza lingüística que cada estudiante trae consigo. Un joven que habla zapoteco, mixteco, otomí o cualquier lengua originaria no solo preserva un tesoro cultural, sino que enriquece nuestra comunidad universitaria con su cosmovisión única.
+
 # Proceso de Admisión
 El alumno presenta un examen de admisión que arroja calificaciones en las áreas de Lectura y Redacción, Matemáticas, Pensamiento lógico y el promedio general
 
@@ -99,6 +97,7 @@ Al ser aceptado se le asigna una matrícula que se forma por 2 digitos para el a
 Como Directora General Académica, me aseguro de que cada profesor sea registrado con rigor y respeto a su trayectoria.
 - Datos personales y de contacto: nombre y apellidos, fecha de nacimiento, RFC, teléfonos y correo electrónico.
 - Formación académica y continua: estudios, institución y fecha (licenciatura, posgrados, diplomados, cursos, certificaciones).
+- Lenguas originarias: como universidad comprometida con la diversidad cultural, registramos la lengua materna de cada profesor y las lenguas adicionales que domina. Esto nos permite identificar profesores que pueden apoyar a estudiantes de comunidades indígenas en su propia lengua, crear materiales educativos culturalmente apropiados, y enriquecer el diálogo intercultural en nuestras aulas. Un profesor que habla maya, náhuatl, rarámuri o cualquier otra lengua originaria es un tesoro pedagógico que debemos valorar y aprovechar.
 
 ## Estudios
 Cada semestre organizo, junto con las coordinaciones, la oferta académica para que funcione con orden y flexibilidad.
@@ -172,6 +171,45 @@ Trabajamos con materiales locales, técnicas tradicionales perfeccionadas con te
 
 **Nota:** La retícula completa incluye 3 semestres adicionales con materias de especialización, proyecto terminal y servicio social.
 
+## Becados
+- José Ricardo Primo Leal viene de la preparatoria pública "Monarcas del Bosque" es originario en un municipio en la sierra, se le otorga una beca del 100%
+- Dolores Gamboa Zamudio alumna que vive en un lujoso residencial pero es una atleta de alto rendimiento, dice que no lo necesita pero se le anima a aceptar un apoyo del 50% durante 2 semestres.
+- Dimitrio Wetzel Lopez es un estudiante destacado que acaba de ganar el Concurso Ecodiseño por lo cual se le otorga el 90% de descuento en el siguiente semestre.
+
+## Tipos de Becas
+|Beca|Promedio mínimo|Descuento %|Permanente o Temporal|Requisitos extra|
+|----|---------------|-----------|---------------------|----------------|
+|Deportiva|8.5|50|Temporal|Carta de recomendación de su entrenador|
+|Pueblos Originarios|8.5|85|Permanente|Estudio Socioeconómico<br>Carta del comisariado o autoridad correspondiente|
+|Discapacidad|7.5|50|Permanente|Constancia Médica|
+|Aprovechamiento Académico|9.0|40|Temporal|Promedio global ≥ 9.0 y sin reprobadas en el último periodo|
+|Participación en Eventos Científicos|8.5|30|Temporal|Constancia oficial de participación/ponencia o publicación avalada por la Coordinación de Investigación|
+
+## Campus
+Se tiene presencia en:
+- Guadalajara, Jalisco (Sede)
+- Mérida, Yucatán
+- Chihuahua, Chihuahua
+- Tuxtla Gutierrez, Chiapas
+- Ciudad de México
+- Ensenada, BC   
+
+## Evaluaciones
+- Rita Saldívar obtuvo 40, 70 y 75 en sus evaluaciones ordinarias de la materia de "Energías Renovables" , por lo que necesita presentar la recuperación de la primera; lo hace y obtiene 89, por lo tanto acredita con 78
+- Shirley Restrepo Muller obtiene 50, 30 y 68 en las evaluaciones ordinarias de "Herbolaria", presenta las evaluaciones de recuperación y obtiene 60, 50 y 70 por lo cual reprueba la materia. La vuelve allevar en Recursamiento y obtiene 80, 70 y 90 en sus evaluaciones ordinarias, pasando con 80.
+
+## Materias
+- Diseño Arquitectónico II (ARG-1004) tiene como requisito haber cursado y aprobado Diseño Arquitectónico I (ARG-1003).
+- Restauración Ecológica (ARG-2005) tiene como requisito haber cursado y aprobado Botánica Aplicada (ARG-2004).
+- Edificaciones Energía Cero (ARG-4005) tiene como requisito haber cursado y aprobado Diseño Solar Pasivo (ARG-4003).
+- La materia Metodología de la Investigación se imparte en las carreras **Ingeniería Ambiental**, **Biotecnología Ambiental** y **Energías Renovables**.
+- La materia Ética Ambiental se imparte en las carreras **Desarrollo Sostenible**, **Ingeniería Ambiental** y **Economía Verde**.
+- La materia Química Ambiental se imparte en las carreras **Ciencias del Medio Ambiente** y **Gestión de Recursos Naturales**. 
+
+## Profesores
+- El profesor Ignacio Manzo Tarzo imparte en el Campus Chihuahua, en modalidad presencial, las materias Ética Ambiental y Sabiduría Constructiva Tradicional. En modalidad virtual imparte Sistemas Constructivos Híbridos de Vanguardia: IA generativa y gemelos digitales, un curso avanzado que integra tecnología de punta con construcción ancestral y que solo él puede impartir. 
+
+
 ## Reportes
 Para una gestión transparente, el sistema genera:
 - Constancia de estudios
@@ -179,3 +217,116 @@ Para una gestión transparente, el sistema genera:
 - Certificado
 - Materias cursando
 - Otros reportes operativos y de seguimiento académico
+
+## Historias de Validación
+
+### Historia 1: Inscripción de Estudiante de Primera Generación
+**Contexto:** La familia Morales de la comunidad de Angahuan, Michoacán, envía por primera vez a un hijo a la universidad.
+
+**Historia:** Josué Morales Espinoza, de 18 años, llega al campus de Guadalajara acompañado de sus padres. Su padre, don Evaristo, habla principalmente purépecha y su madre, doña Carmen, está nerviosa porque nunca había estado en una ciudad tan grande. Josué fue el mejor estudiante de su preparatoria rural y quiere estudiar Gestión de Recursos Naturales para ayudar a proteger los bosques de su comunidad.
+
+Durante la inscripción, la asesora académica Lic. Patricia Vázquez nota que Josué tiene un excelente promedio pero necesita apoyo financiero. Sus padres cultivan maíz criollo en pequeña escala y la economía familiar es limitada. Patricia activa el protocolo de becas por situación socioeconómica y origen indígena.
+
+**Validaciones del sistema:**
+- Verificar documentos de preparatoria rural acreditada por SEP
+- Validar promedio mínimo para ingreso (8.0 cumplido con 9.2)
+- Calcular beca automática: 85% por origen indígena + 15% adicional por excelencia académica = 100%
+- Registrar información cultural para seguimiento diferenciado
+- Asignar tutor académico especializado en estudiantes de primera generación
+- Generar reporte para programa de apoyo psicopedagógico
+
+### Historia 2: Transferencia Entre Campus
+**Contexto:** Una estudiante necesita cambiar de campus por razones familiares complejas.
+
+**Historia:** Andrea Sofía Ramírez cursaba tercer semestre de Biotecnología Ambiental en el campus de Mérida. Su madre, la Sra. Leticia Gómez, fue diagnosticada con cáncer y necesita tratamiento en Guadalajara. Andrea es hija única y debe acompañar a su madre durante el proceso.
+
+La Coordinadora Académica de Mérida, Dra. Isabel Cauich, se reúne con Andrea para explorar opciones. Aunque es complicado porque no todas las materias tienen equivalencia exacta entre campus, la universidad tiene el compromiso de apoyar a sus estudiantes en situaciones difíciles.
+
+**Validaciones del sistema:**
+- Verificar materias cursadas y aprobadas en campus origen
+- Buscar equivalencias exactas en campus destino
+- Identificar materias sin equivalencia directa
+- Calcular plan de nivelación personalizado
+- Verificar cupo disponible en horarios solicitados
+- Mantener beca activa durante la transferencia
+- Generar carta de transferencia oficial
+- Actualizar expediente académico con motivo del cambio
+
+**Resultado:** Andrea puede continuar sus estudios en Guadalajara cursando las materias equivalentes, más dos materias en línea desde el campus de Mérida para completar su formación específica en microbiología tropical.
+
+### Historia 3: Revalidación de Estudios Internacionales
+**Contexto:** Un estudiante regresa de intercambio académico con calificaciones de sistema educativo diferente.
+
+**Historia:** Carlos Eduardo Zamora completó un semestre en la Universidad de Costa Rica dentro del programa de intercambio. Cursó cinco materias relacionadas con biodiversidad tropical, pero el sistema de calificación costarricense usa escala de 0-100 mientras que en México usamos 0-10.
+
+La Dra. Fernanda Ugalde, Directora de Intercambio Académico, debe revisar las calificaciones: Ecología Tropical (85), Conservación de Especies (92), Metodología de Investigación (78), Química de Productos Naturales (88), y Español como Segunda Lengua (95).
+
+**Validaciones del sistema:**
+- Aplicar tabla de equivalencias internacionales oficiales
+- Verificar que las materias cumplan con contenidos mínimos del programa
+- Validar carga académica (créditos/horas)
+- Confirmar autenticidad de documentos con sello apostillado
+- Registrar calificaciones en expediente con nota de procedencia
+- Actualizar promedio general ponderado
+- Verificar cumplimiento de requisitos de graduación
+
+**Conversión aplicada:** Las calificaciones se convierten a: 8.5, 9.2, 7.8, 8.8, y 9.5 respectivamente.
+
+### Historia 4: Caso de Recursamiento Múltiple
+**Contexto:** Un estudiante enfrenta dificultades académicas en materias de ciencias básicas.
+
+**Historia:** Fernando Javier Acosta estudia Ingeniería Ambiental pero ha reprobado Cálculo Diferencial dos veces. Viene de una preparatoria técnica donde las matemáticas no fueron su fuerte, pero tiene gran vocación ambiental y excelente desempeño en materias de su área de especialidad.
+
+Su asesora académica, Maestra Ana Cristina Herrera, nota que Fernando necesita apoyo especializado. Las matemáticas son fundamentales para su carrera, pero su estilo de aprendizaje requiere un enfoque diferente.
+
+**Validaciones del sistema:**
+- Verificar límite máximo de recursamiento (3 intentos)
+- Identificar materias prerrequisito bloqueadas
+- Calcular impacto en tiempo de graduación
+- Verificar elegibilidad para apoyo académico especial
+- Registrar plan de acción tutorial
+- Monitorear asistencia a asesorías obligatorias
+- Evaluar opciones de cambio de carrera si es necesario
+
+**Plan de acción:** Fernando cursa Cálculo por tercera vez con apoyo de tutor especializado, asesorías grupales y material didáctico adaptado. Aprueba con 7.8 y puede continuar su carrera.
+
+### Historia 5: Graduación con Mención Honorífica
+**Contexto:** Una estudiante excepcional cumple requisitos para distinción académica.
+
+**Historia:** Ximena Paola Castañeda Ruiz termina la carrera de Energías Renovables con promedio de 9.6, completó un proyecto de tesis sobre paneles solares con materiales reciclados que fue publicado en revista indexada, realizó servicio social en comunidad indígena implementando sistema de energía solar, y participó en tres congresos nacionales.
+
+El Comité de Honores Académicos, presidido por la Maestra Yurema, debe evaluar si Ximena merece Mención Honorífica, la máxima distinción de la universidad.
+
+**Validaciones del sistema:**
+- Verificar promedio mínimo (9.5 ✓)
+- Confirmar cero reprobadas (✓)
+- Validar tiempo de graduación máximo (cumplido en tiempo ordinario ✓)
+- Verificar publicación científica como primer autor (✓)
+- Confirmar impacto social del servicio social (✓)
+- Validar participación en actividades de investigación (✓)
+- Revisar evaluaciones de profesores sobre liderazgo académico
+- Confirmar que la tesis recibió calificación mínima de 9.5
+
+**Resultado:** Ximena se gradúa con Mención Honorífica "Homero Gómez González" y recibe invitación para continuar estudios de posgrado con beca completa.
+
+### Historia 6: Emergencia Académica Durante Contingencia
+**Contexto:** Situación extraordinaria requiere flexibilidad en políticas académicas.
+
+**Historia:** Durante una contingencia sanitaria, el estudiante Miguel Ángel Soto de quinto semestre de Desarrollo Sostenible no puede acceder a internet confiable desde su comunidad rural en Oaxaca. Está en riesgo de perder el semestre por inasistencias virtuales, pero su desempeño presencial había sido excelente.
+
+La Dra. Carmen Leticia Flores, Coordinadora de Asuntos Estudiantiles, debe encontrar alternativas que protejan la continuidad educativa sin comprometer la calidad académica.
+
+**Validaciones del sistema:**
+- Documentar situación de fuerza mayor
+- Verificar desempeño académico previo
+- Identificar materias críticas vs. diferibles
+- Calcular opciones de modalidades alternativas
+- Autorizar plan de estudios modificado temporalmente
+- Registrar excepciones con justificación completa
+- Programar seguimiento especial post-contingencia
+
+**Solución:** Miguel recibe material didáctico físico, realiza proyectos individuales supervisados por teléfono, y presenta exámenes extraordinarios una vez restablecida la conectividad.
+
+---
+
+*Cada historia refleja el compromiso de la Universidad Homero Gómez González con la excelencia académica, la inclusión social y el apoyo integral a nuestros estudiantes, manteniendo siempre la filosofía de caminar juntos hacia un futuro mejor.*
