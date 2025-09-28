@@ -35,10 +35,52 @@ This is an educational repository containing **database design case studies** fo
 
 ## Development Conventions
 
-### Query Design Patterns
-- **Básico**: Simple SELECT, WHERE, ORDER BY, basic GROUP BY
-- **Intermedio**: JOINs, subqueries, except, intersect, union, window functions, aggregations with HAVING
-- **Avanzado**: CTEs, recursive queries, pivot
+### 🎯 Purpose
+When generating exercises for student projects, Copilot should provide **creative and realistic SQL problems** aligned with the course progression. Exercises must involve real-world data scenarios and encourage step-by-step mastery of T-SQL and standard SQL features.
+
+
+
+### 🪜 Difficulty Levels & Expected Features
+
+| Level | Description | Common Clauses | Key Functions |
+|-------|-------------|---------------|---------------|
+| 🟢 **Básico** | Data cleaning, simple filters, basic transformations | `SELECT`, `FROM`, `WHERE`, `ORDER BY`, `DISTINCT`, `TOP` | `LEN`, `LTRIM`, `RTRIM`, `SUBSTRING`, `UPPER`, `LOWER`, `CAST`, `ISNULL` |
+| 🟡 **Intermedio** | Summaries, simple joins, conditional logic | `GROUP BY`, `HAVING`, `UNION`, `EXCEPT`, `INTERSECT`, simple subqueries | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `CASE`, `IIF`, `DATEDIFF`, `YEAR`, `MONTH` |
+| 🔵 **Avanzado** | Analytical calculations, complex transformations, advanced joins | `JOIN` (various), `APPLY`, `PIVOT`, correlated subqueries | `STRING_AGG`, `FORMAT`, `DATEADD`, `EOMONTH`, `POWER`, `TRY_CAST` |
+| 🔴 **Experto** | Analytical SQL, complex structures, optimization | `WITH` (CTE), window functions with `OVER`, `MERGE`, `OUTPUT` | `ROW_NUMBER`, `RANK`, `LAG`, `LEAD`, `JSON_VALUE`, `STRING_SPLIT` |
+
+---
+
+### ✍️ Exercise Generation Guidelines
+
+When Copilot generates SQL exercises, it should:
+
+1. **Start with a business or real-world scenario**  
+   - Example: “Una empresa quiere saber qué productos se vendieron más el último trimestre.”  
+   - Keep scenarios simple and relatable (e.g. ventas, hospital, biblioteca, escuela, transporte).
+
+2. **Specify the expected difficulty level**  
+   - Use the 🟢🟡🔵🔴 classification to guide the choice of clauses and functions.  
+   - Build exercises progressively when generating a sequence.
+
+3. **Vary the type of challenges**  
+   - Data cleaning  
+   - Filtering & sorting  
+   - Aggregation & reporting  
+   - Subqueries & set operations  
+   - Joins between multiple tables  
+   - CTEs and window functions
+
+4. **Include constraints or twists**  
+   - Example: “Solo mostrar clientes con más de 3 compras en el último año.”  
+   - Or: “Obtener el producto más vendido por región sin usar subconsultas.”
+
+5. **Target multi-database compatibility (when possible)**  
+   - Stick to ANSI SQL for Básico & Intermedio levels.  
+   - Avoid vendor-specific functions unless the exercise is explicitly Avanzado/Experto.
+
+6. **Describe expected outputs or goals**  
+   - Example: “La consulta debe devolver el nombre del cliente, el total gastado y el número de pedidos.”
 
 ### Naming Conventions
 - Directory names use Spanish terms as domain language

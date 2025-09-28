@@ -48,6 +48,7 @@ book:
     - part: "Universidad Homero Gómez González"
       chapters:
         - "./Universidad_Homero_Gomez/Universidad_Homero_Gomez_Gonzalez.md"
+        - "./Universidad_Homero_Gomez/Consultas.md"
     - part: "Zaboo Mazoo"
       chapters:
       - ./Zaboo/Zaboo Mazoo.md

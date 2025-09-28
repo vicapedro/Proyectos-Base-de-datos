@@ -19,7 +19,7 @@ Es una red social para que las personas compartan su opinión sobre los lugares 
 
 ## Inmobiliaria (Morshu States )
 Empresa dedicada a la venta y renta de casas bienes inmuebles
-Incompleto, no usar
+
 
 ## MasterBall (Pendiente)
 
