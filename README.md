@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de **casos de estudio de diseño de bases de datos** para cursos de Ingeniería en Sistemas. Cada proyecto representa un dominio de negocio completo con requerimientos reales escritos en lenguaje del dominio empresarial.
 
-## 📚 Estructura del Repositorio
+## Estructura del Repositorio
 
 Cada directorio representa un caso de negocio completo con:
 - **Especificación principal**: `{Proyecto}.md` con requerimientos completos del negocio
@@ -10,7 +10,7 @@ Cada directorio representa un caso de negocio completo con:
 - **Historias de validación**: Escenarios complejos para probar el diseño
 - **Recursos adicionales**: Documentos, plantillas y ejemplos del mundo real
 
-## 🏢 Proyectos Disponibles
+## Proyectos Disponibles
 
 ### Agroquímicos
 **Dominio**: Distribución y manejo de productos agroquímicos
@@ -97,7 +97,7 @@ Cada directorio representa un caso de negocio completo con:
 - **Casos de uso**: Programas de conservación, gestión de personal, control sanitario
 - **Recursos**: Formularios en papel para demostrar problemas pre-digitalización
 
-## 🎯 Metodología Educativa
+## Metodología Educativa
 
 ### Niveles de Consultas SQL
 1. **Básico**: SELECT, WHERE, ORDER BY, GROUP BY básico
@@ -117,7 +117,7 @@ Cada proyecto incluye 6 historias complejas que presentan:
 - **Plantillas operativas**: Documentos de trabajo del mundo real
 - **Datos de ejemplo**: CSVs y ejemplos concretos para poblar las bases de datos
 
-## 🚀 Cómo Usar Este Repositorio
+## Cómo Usar Este Repositorio
 
 1. **Selecciona un proyecto** basado en el dominio de interés
 2. **Lee la especificación completa** en el archivo principal `.md`
@@ -126,7 +126,7 @@ Cada proyecto incluye 6 historias complejas que presentan:
 5. **Valida tu diseño** usando las historias complejas de validación
 6. **Documenta decisiones** de diseño y justifica la normalización elegida
 
-## 📖 Generación de Documentación
+## Generación de Documentación
 
 Este repositorio usa **Quarto** para generar documentación en múltiples formatos:
 
@@ -141,7 +141,7 @@ quarto render --to html
 quarto render --to pdf
 ```
 
-## 🎓 Objetivos de Aprendizaje
+## Objetivos de Aprendizaje
 
 Los estudiantes desarrollarán habilidades en:
 - **Análisis de requerimientos** en lenguaje natural de negocio
@@ -151,12 +151,12 @@ Los estudiantes desarrollarán habilidades en:
 - **Validación de diseños** mediante casos de uso extremos
 - **Documentación técnica** y justificación de decisiones de diseño
 
-## 📝 Estado de Desarrollo
+## Estado de Desarrollo
 
-- ✅ **Completos**: 10 proyectos con especificaciones, consultas e historias de validación
-- 🔄 **En desarrollo**: 3 proyectos programados para enero 2026
-- 📚 **Total de consultas**: Más de 500 consultas SQL organizadas por dificultad
-- 🎯 **Historias de validación**: 78 escenarios complejos de prueba
+- **Completos**: 10 proyectos con especificaciones, consultas e historias de validación
+- **En desarrollo**: 3 proyectos programados para enero 2026
+- **Total de consultas**: Más de 500 consultas SQL organizadas por dificultad
+- **Historias de validación**: 78 escenarios complejos de prueba
 
 ---
 
