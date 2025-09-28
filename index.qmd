@@ -23,7 +23,7 @@ Cada proyecto incluye consultas SQL organizadas en niveles progresivos:
 
 | Sector | Proyectos | Complejidad |
 |--------|-----------|-------------|
-| **Educativo** | Comedor Escolar, Conquistadores | Restricciones alimentarias, progresión por edades |
+| **Educativo** | Comedor Escolar, Conquistadores, Universidad | Restricciones alimentarias, progresión por edades, Control Escolar |
 | **Salud** | Salud y Vida, Pawfect Care | Expedientes médicos, inventario farmacéutico |
 | **Entretenimiento** | MyBeat, Zaboo Mazoo, MasterBall | Streaming musical, gestión zoológica, torneos |
 | **Comercial** | TrumpetWare, Taller Automotriz | MLM, mantenimiento vehicular |

@@ -38,6 +38,9 @@ Empresa de mantenimiento automotriz con presencia nacional que gestiona diagnós
 ## Trumpetware
 Empresa de venta por catálogo. Sus embajadores tienen una cartera de clientes que seleccionan los productos de un catálogo impreso o del sitio web. Algunos artículos se venden durante muchos meses, otros solo por temporadas (navidad, dia de las madres, etc.)
 
+## Universidad Homero Gómez González
+Universidad ambientalista que requiere un sistema de control escolar
+
 ## Zaboo Mazoo
 Zoológico que actualemnte administra todo en papel y quiere hacer la transformación digital para minimizar la pérdida de información y la confusión.
 

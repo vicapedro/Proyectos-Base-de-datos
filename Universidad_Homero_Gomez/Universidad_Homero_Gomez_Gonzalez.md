@@ -141,6 +141,37 @@ La movilidad es una oportunidad para crecer sin perder continuidad académica.
 Declaro egresado a quien culmina, con excelencia y compromiso, todo su trayecto formativo.
 - Requisitos: todas las materias obligatorias, el número requerido de optativas, servicio social y prácticas profesionales acreditadas.
 
+# Ejemplos de información
+
+## Carrera de Arquitectura Regenerativa
+
+La nueva carrera de Arquitectura Regenerativa nació de una pregunta que me hice mientras caminaba por los bosques de mi infancia en la sierra de Chihuahua: ¿y si en lugar de solo construir sin dañar, construyéramos para sanar?
+
+Esta carrera única en México forma arquitectos que entienden que cada edificio es una oportunidad de dar vida al entorno. Nuestros estudiantes aprenden a diseñar casas que purifican el aire, edificios que captan y filtran agua de lluvia, espacios que invitan a la biodiversidad a regresar.
+
+Trabajamos con materiales locales, técnicas tradicionales perfeccionadas con tecnología moderna, y siempre con el principio rarámuri de que somos parte de la naturaleza, no sus dueños. Es arquitectura que respira, que vive, que sana.
+
+### Retícula Curricular - Arquitectura Regenerativa - Clave ARG-2025-023
+
+| **Línea de Conocimiento** | **1er Semestre** | **2do Semestre** | **3er Semestre** | **4to Semestre** | **5to Semestre** |
+|---------------------------|------------------|------------------|------------------|------------------|------------------|
+| **Fundamentos de Diseño** | Dibujo Técnico Arquitectónico<br>ARG-1001<br>2-4-6 | Geometría Descriptiva<br>ARG-1002<br>2-4-6 | Diseño Arquitectónico I<br>ARG-1003<br>2-6-8 | Diseño Arquitectónico II<br>ARG-1004<br>2-6-8 | Diseño Arquitectónico III<br>ARG-1005<br>2-6-8 |
+| **Ciencias Ambientales** | Ecología General<br>ARG-2001<br>3-2-5 | Climatología y Microclimas<br>ARG-2002<br>3-2-5 | Biología de Ecosistemas<br>ARG-2003<br>3-2-5 | Botánica Aplicada<br>ARG-2004<br>2-4-6 | Restauración Ecológica<br>ARG-2005<br>2-4-6 |
+| **Tecnología Constructiva** | Matemáticas Aplicadas<br>ARG-3001<br>4-0-4 | Física Aplicada<br>ARG-3002<br>3-2-5 | Materiales Sostenibles<br>ARG-3003<br>3-2-5 | Sistemas Constructivos Verde<br>ARG-3004<br>2-4-6 | Tecnologías Regenerativas<br>ARG-3005<br>2-4-6 |
+| **Diseño Bioclimático** | Introducción al Diseño Sostenible<br>ARG-4001<br>2-2-4 | Análisis del Sitio<br>ARG-4002<br>2-4-6 | Diseño Solar Pasivo<br>ARG-4003<br>2-4-6 | Sistemas de Climatización Natural<br>ARG-4004<br>2-4-6 | Edificaciones Energía Cero<br>ARG-4005<br>2-4-6 |
+| **Cultura y Sociedad** | Historia de la Arquitectura Vernácula<br>ARG-5001<br>3-0-3 | Antropología del Habitar<br>ARG-5002<br>3-0-3 | Sabiduría Constructiva Tradicional<br>ARG-5003<br>2-2-4 | Participación Comunitaria<br>ARG-5004<br>2-2-4 | Arquitectura Social Regenerativa<br>ARG-5005<br>2-2-4 |
+| **Gestión de Recursos** | Química Ambiental<br>ARG-6001<br>3-2-5 | Hidrología Urbana<br>ARG-6002<br>3-2-5 | Captación y Tratamiento de Agua<br>ARG-6003<br>2-4-6 | Gestión de Residuos Constructivos<br>ARG-6004<br>2-2-4 | Economía Circular en Construcción<br>ARG-6005<br>3-0-3 |
+| **Desarrollo Integral** | Metodología de la Investigación<br>ARG-7001<br>2-2-4 | Inglés Técnico<br>ARG-7002<br>2-2-4 | Ética Ambiental<br>ARG-7003<br>3-0-3 | Desarrollo Humano Sustentable<br>ARG-7004<br>2-2-4 | Liderazgo y Emprendimiento Verde<br>ARG-7005<br>2-2-4 |
+
+**Totales por semestre:** 
+- 1er Semestre: 21 horas teóricas, 18 horas prácticas, 33 créditos
+- 2do Semestre: 21 horas teóricas, 20 horas prácticas, 35 créditos  
+- 3er Semestre: 19 horas teóricas, 22 horas prácticas, 36 créditos
+- 4to Semestre: 17 horas teóricas, 24 horas prácticas, 37 créditos
+- 5to Semestre: 17 horas teóricas, 24 horas prácticas, 37 créditos
+
+**Nota:** La retícula completa incluye 3 semestres adicionales con materias de especialización, proyecto terminal y servicio social.
+
 ## Reportes
 Para una gestión transparente, el sistema genera:
 - Constancia de estudios
