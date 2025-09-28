@@ -275,6 +275,3 @@ Aplicar modelos de análisis de supervivencia (Kaplan-Meier, Cox regression) par
 Implementar redes neuronales profundas para analizar patrones complejos de aprendizaje estudiantil, identificando estilos de aprendizaje únicos, prediciendo dificultades específicas por materia, y recomendando estrategias pedagógicas personalizadas.
 
 ---
-
-*Nivel Analítica completado. Estas consultas representan la frontera del análisis de datos en educación superior, integrando machine learning, inteligencia artificial, optimización avanzada, y análisis predictivo para transformar la gestión universitaria en la era de los datos.*
-
