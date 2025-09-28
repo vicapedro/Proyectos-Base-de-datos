@@ -45,6 +45,9 @@ book:
     - part: "TrumpetWare"
       chapters:
         - ./TrumpetWare/TrumpetWare.md
+    - part: "Universidad Homero Gómez González"
+      chapters:
+        - "./Universidad_Homero_Gomez/Universidad_Homero_Gomez_Gonzalez.md"
     - part: "Zaboo Mazoo"
       chapters:
       - ./Zaboo/Zaboo Mazoo.md

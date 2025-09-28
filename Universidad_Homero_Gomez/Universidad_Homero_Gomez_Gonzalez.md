@@ -96,56 +96,55 @@ De cada carrera se ofrecen cierta cantidad de lugares, dejando siempre algunos l
 Al ser aceptado se le asigna una matrícula que se forma por 2 digitos para el año, un codigo de 2 letras según la carrera, y un número consecutivo.
 
 ## Profesores
-- Los profesores son registrados con sus datos personales y académicos
-  - Nombre y apellidos, fecha de nacimiento, RFC, telefonos, correo electrónico
-  - Estudios, institución y fecha de realización (carrera, posgrados, diplomados, cursos, certificaciones, etc.)
-  
-## Estudios
-- Cada semestre se crean grupos para las materias de los diferentes planes de estudios.
-- Para tener algo de flexibilidad, los grupos pueden ser para clases presenciales o en línea.
-- Cada grupo presencial se ofrece en un horario los días de la semana que sean necesarios para completar sus horas teórico/prácticas. Cada grupo presencial tiene un cupo maximo de 25 alumnos. 
-- Cada grupo presencial lo imparte un profesor en una aula.
-- Los grupos virtuales tienen un profesor asignado pero no un horario ni aula específicos. Tienen un cupo máximo de 100 alumnos que pueden ser de diferente campus.
-- Los alumnos se reinscriben y seleccionan los grupos de las materias que llevarán según el semestre que cursen. Aquí pueden seleccionar un grupo presencial o en línea y las optativas.
-- Previo a la carga de materias los alumnos votan por las materias optativas que quieren que se abran. Si se alcanza un mínimo de 10 alumnos, se abre el grupo. Algunas materias optativas pueden ser en modalidad virtual. Lo que facilita que se abra el grupo
+Como Directora General Académica, me aseguro de que cada profesor sea registrado con rigor y respeto a su trayectoria.
+- Datos personales y de contacto: nombre y apellidos, fecha de nacimiento, RFC, teléfonos y correo electrónico.
+- Formación académica y continua: estudios, institución y fecha (licenciatura, posgrados, diplomados, cursos, certificaciones).
 
+## Estudios
+Cada semestre organizo, junto con las coordinaciones, la oferta académica para que funcione con orden y flexibilidad.
+- Se crean grupos por materia y plan de estudios, en modalidad presencial o en línea.
+- Grupos presenciales: horario distribuido en los días necesarios para cubrir horas teórico-prácticas; cupo máximo 25; un profesor y un aula asignados.
+- Grupos virtuales: profesor asignado, sin horario ni aula específicos; cupo máximo 100; pueden incluir alumnos de distintos campus.
+- Reinscripción: cada alumno selecciona sus grupos (presencial o virtual) y sus optativas según su avance.
+- Apertura de optativas: los alumnos votan; si una optativa alcanza al menos 10 interesados, abrimos grupo. Algunas optativas pueden impartirse en modalidad virtual para facilitar su apertura.
 
 ## Acreditación de materias
-- Para acreditar una materia, el alumno debe acreditar todas las evaluaciones con una calificación mínima de 60 y su calificación final será el promedio de estas.
-- En cada semestre se realizan 3 evaluaciones ordinarias por materia. No necesariamente un examen, de hecho es el instrumento menos usado.
-- Si un alumno no alcanza una calificación mínima de 60 en una evaluación ordinaria, deberá presentar una evaluación de recuperación.
-- Si el alumno no acredita una materia, la deberá cursar en el siguiente semestre en modalidad presencial en forma obligatoria.
-- En cada sesión de clase se registra la asistencia de los alumnos. Un 25% de inasistencias a un curso alerta al profesor. Un 30% de inasistencias a la mas de la mitad de sus clases, alerta a las autoridades académicas. Un 50% de inasistencias en un curso es motivo para reprobar una evaluación. La puede presentar en recuperación.
+Nuestra evaluación busca el aprendizaje significativo con reglas claras y justas.
+- Para acreditar una materia, el alumno debe aprobar todas las evaluaciones con mínimo 60; la calificación final es el promedio.
+- Por semestre se realizan 3 evaluaciones ordinarias por materia (no necesariamente exámenes).
+- Si en una evaluación ordinaria no alcanza 60, presenta una evaluación de recuperación.
+- Si no acredita la materia, la recursa el siguiente semestre en modalidad presencial obligatoria.
+- Asistencia: se registra en cada sesión.
+  - 25% de inasistencias en un curso: alerta al profesor.
+  - 30% de inasistencias en más de la mitad de sus materias: alerta a autoridades académicas.
+  - 50% de inasistencias en un curso: reprueba una evaluación; puede presentarla en recuperación.
 
 ## Finanzas
-- Se registran los pagos de admisión,  reinscricpión y las colegiaturas que son mensuales. Si la colegiatura no se paga en los primeros 10 dias del mes se hace un cargo por el 5%.
-- Existen becas/descuentos por (como llamarle a venir de zona marginada/estudio socioeconómico) aprovechamiento, por actividades deportivas, participación en eventos científicos, etc. Algunas son por todo el programa y otras por período.
-- Las constancias, certificados, reposición de credencial, etc. tienen un costo dependiendo del documento.
+Cuidamos la sustentabilidad financiera con sensibilidad social.
+- Registramos pagos de admisión, reinscripción y colegiaturas mensuales.
+- Mora: si la colegiatura no se paga en los primeros 10 días del mes, se aplica un recargo del 5%.
+- Becas y descuentos: por situación socioeconómica (diagnóstico institucional), aprovechamiento, actividades deportivas, participación en eventos científicos, entre otras. Algunas cubren todo el programa; otras, periodos específicos.
+- Servicios con costo: constancias, certificados, reposición de credencial y otros documentos, según tarifa vigente.
 
 ## Espacios educativos
-- Se cuenta con varios edificios que albergan múltiples aulas; cada aula tiene una carrera prioritaria asignada, aunque su uso no es exclusivo.
-- Se cuenta con laboratorios especializados para el desarrollo de prácticas; cada hora práctica programada debe tener asignado un laboratorio disponible. 
+Garantizo que el aprendizaje ocurra en ambientes adecuados y disponibles.
+- Varios edificios con múltiples aulas; cada aula tiene una carrera prioritaria, sin uso exclusivo.
+- Laboratorios especializados: toda hora práctica programada debe contar con laboratorio asignado y disponible.
 
 ## Movilidad Estudiantil
-
-- Un alumno puede solicitar cambio de campus hasta un mes antes de iniciar el semestre. 
-- Se puede recibir a un alumno de otra institución, previo estudio de compatibilidad de estudios para revalidar materias. 
-- Un alumno se puede cambiar de carrera dentro de la misma institución antes de cursar el 40% de su carrera original. Las materias mantienen su calificacion. Las amterias cursadas que no pertenecen a la nueva carrera quedan registradas pero no se contemplan para efectos de la nueva.
-- 
+La movilidad es una oportunidad para crecer sin perder continuidad académica.
+- Cambio de campus: se solicita hasta un mes antes del inicio del semestre.
+- Revalidaciones: podemos recibir alumnos de otras instituciones tras estudio de compatibilidad para revalidar materias.
+- Cambio de carrera interno: posible antes de cursar el 40% del plan original. Se conservan calificaciones de materias comunes; las no pertenecientes a la nueva carrera quedan registradas, pero no cuentan para el nuevo plan.
 
 ## Egreso
-- Al acreditar todas las materias obligatorias mas la cantidad de materias optativas, el servicio social y sus prácticas profesionales, el alumno se considera egresado.
-- 
-
-
-
-
-
-
+Declaro egresado a quien culmina, con excelencia y compromiso, todo su trayecto formativo.
+- Requisitos: todas las materias obligatorias, el número requerido de optativas, servicio social y prácticas profesionales acreditadas.
 
 ## Reportes
+Para una gestión transparente, el sistema genera:
 - Constancia de estudios
-- Historial Académico
+- Historial académico
 - Certificado
 - Materias cursando
-- 
+- Otros reportes operativos y de seguimiento académico
